@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:EPSG::25832"
+                }
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            380186.259,
+                            5461403.009
+                        ],
+                        [
+                            380196.182,
+                            5461385.306
+                        ],
+                        [
+                            380259.397,
+                            5461418.548
+                        ],
+                        [
+                            380259.092,
+                            5461435.55
+                        ],
+                        [
+                            380186.259,
+                            5461403.009
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "NAME": "2100",
+                "FLUR_NR": "12",
+                "FLZ": "2902",
+                "ID": "4"
+            }
+        }
+    ]
+}

@@ -82,7 +82,12 @@ const config: Config = {
           label: 'KlimaKarte',
           position: 'left'
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          to: '/map',
+          label: 'Map',
+          position: 'left'
+        },
+        {to: '/blog', label: 'Blog', position: 'right'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
