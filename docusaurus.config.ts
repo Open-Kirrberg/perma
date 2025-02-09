@@ -3,6 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 import type {Options as DocsOptions} from '@docusaurus/plugin-content-docs';
 
+const isProd = process.env.NODE_ENV === 'production';
+
 const config: Config = {
   title: 'My Site',
   tagline: 'Natur im Gleichgewicht: Permakultur für alle',
@@ -12,7 +14,7 @@ const config: Config = {
   url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: isProd ? '/perma/' : '/', // lokaler Modus vs. Produktion
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
