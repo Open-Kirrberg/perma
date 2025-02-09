@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>My Site Blog</title>
-        <link>https://your-docusaurus-site.example.com/blog</link>
+        <link>https://your-docusaurus-site.example.com/perma/blog</link>
         <description>My Site Blog</description>
         <lastBuildDate>Sat, 18 May 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,16 +10,16 @@
         <language>en</language>
         <item>
             <title><![CDATA[CO₂ Café]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/co2-cafe-1</link>
-            <guid>https://your-docusaurus-site.example.com/blog/co2-cafe-1</guid>
+            <link>https://your-docusaurus-site.example.com/perma/blog/co2-cafe-1</link>
+            <guid>https://your-docusaurus-site.example.com/perma/blog/co2-cafe-1</guid>
             <pubDate>Sat, 18 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Datum: [Datum hier einfügen]]]></description>
             <content:encoded><![CDATA[<p><strong>Datum:</strong> [Datum hier einfügen]
 <strong>Zeit:</strong> [Zeit hier einfügen]
 <strong>Ort:</strong> [Ort hier einfügen]</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="trink-einen-kaffee-und-speichere-co">Trink einen Kaffee und speichere CO₂!<a href="https://your-docusaurus-site.example.com/blog/co2-cafe-1#trink-einen-kaffee-und-speichere-co" class="hash-link" aria-label="Direct link to Trink einen Kaffee und speichere CO₂!" title="Direct link to Trink einen Kaffee und speichere CO₂!">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="trink-einen-kaffee-und-speichere-co">Trink einen Kaffee und speichere CO₂!<a href="https://your-docusaurus-site.example.com/perma/blog/co2-cafe-1#trink-einen-kaffee-und-speichere-co" class="hash-link" aria-label="Direct link to Trink einen Kaffee und speichere CO₂!" title="Direct link to Trink einen Kaffee und speichere CO₂!">​</a></h2>
 <p>Komm zu unserem öffentlichen Café und hilf uns, Pflanzenkohle zu finanzieren, die CO₂ speichert und den Boden verbessert!</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="was-dich-erwartet">Was dich erwartet:<a href="https://your-docusaurus-site.example.com/blog/co2-cafe-1#was-dich-erwartet" class="hash-link" aria-label="Direct link to Was dich erwartet:" title="Direct link to Was dich erwartet:">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="was-dich-erwartet">Was dich erwartet:<a href="https://your-docusaurus-site.example.com/perma/blog/co2-cafe-1#was-dich-erwartet" class="hash-link" aria-label="Direct link to Was dich erwartet:" title="Direct link to Was dich erwartet:">​</a></h3>
 <ul>
 <li><strong>Kaffee, Kuchen und Bier</strong>: Genieße leckere Speisen und Getränke, die helfen, CO₂ zu speichern!</li>
 <li><strong>Gutscheine</strong>: Erhalte einen Gutschein für jede Bestellung, die symbolisiert, wie viel CO₂ du speicherst.</li>
@@ -38,16 +38,16 @@
         </item>
         <item>
             <title><![CDATA[Unsere grüne Mission: 5 Tonnen CO₂ binden mit Pflanzenkohle!]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/long-blog-post</link>
-            <guid>https://your-docusaurus-site.example.com/blog/long-blog-post</guid>
+            <link>https://your-docusaurus-site.example.com/perma/blog/long-blog-post</link>
+            <guid>https://your-docusaurus-site.example.com/perma/blog/long-blog-post</guid>
             <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Ein spannendes Projekt für nachhaltige Landwirtschaft]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ein-spannendes-projekt-für-nachhaltige-landwirtschaft">Ein spannendes Projekt für nachhaltige Landwirtschaft<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#ein-spannendes-projekt-f%C3%BCr-nachhaltige-landwirtschaft" class="hash-link" aria-label="Direct link to Ein spannendes Projekt für nachhaltige Landwirtschaft" title="Direct link to Ein spannendes Projekt für nachhaltige Landwirtschaft">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ein-spannendes-projekt-für-nachhaltige-landwirtschaft">Ein spannendes Projekt für nachhaltige Landwirtschaft<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#ein-spannendes-projekt-f%C3%BCr-nachhaltige-landwirtschaft" class="hash-link" aria-label="Direct link to Ein spannendes Projekt für nachhaltige Landwirtschaft" title="Direct link to Ein spannendes Projekt für nachhaltige Landwirtschaft">​</a></h2>
 <p>Hallo liebe Permakultur-Freunde!</p>
 <p>Wir stehen am Anfang eines aufregenden neuen Projekts und möchten euch auf unsere Reise mitnehmen. Dieses Jahr setzen wir uns ein ehrgeiziges Ziel: 5 Tonnen CO₂ speichern und gleichzeitig unseren Boden verbessern – und das alles mit der Kraft der Pflanzenkohle!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="was-ist-pflanzenkohle">Was ist Pflanzenkohle?<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#was-ist-pflanzenkohle" class="hash-link" aria-label="Direct link to Was ist Pflanzenkohle?" title="Direct link to Was ist Pflanzenkohle?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="was-ist-pflanzenkohle">Was ist Pflanzenkohle?<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#was-ist-pflanzenkohle" class="hash-link" aria-label="Direct link to Was ist Pflanzenkohle?" title="Direct link to Was ist Pflanzenkohle?">​</a></h2>
 <p>Pflanzenkohle, auch bekannt als Biochar, entsteht durch die Pyrolyse von organischem Material wie Holz oder landwirtschaftlichen Abfällen unter Ausschluss von Sauerstoff. Dieser Prozess wandelt die Biomasse in eine stabile Form von Kohlenstoff um, die im Boden eingebracht werden kann, um die Bodenstruktur zu verbessern und gleichzeitig CO₂ dauerhaft zu binden.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="unser-produkt-der-wahl">Unser Produkt der Wahl<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#unser-produkt-der-wahl" class="hash-link" aria-label="Direct link to Unser Produkt der Wahl" title="Direct link to Unser Produkt der Wahl">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="unser-produkt-der-wahl">Unser Produkt der Wahl<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#unser-produkt-der-wahl" class="hash-link" aria-label="Direct link to Unser Produkt der Wahl" title="Direct link to Unser Produkt der Wahl">​</a></h2>
 <p>Für unser Projekt haben wir uns für hochwertige Pflanzenkohle entschieden, die perfekt für verschiedene landwirtschaftliche Anwendungen geeignet ist:</p>
 <ul>
 <li>Gülle-, Mist- und Gärrestaufbereitung</li>
@@ -55,35 +55,35 @@
 <li>Kompostierung und Terra Preta Herstellung</li>
 </ul>
 <p>Unsere Pflanzenkohle wird voraktiviert, um die Nährstoffaufnahme und Speicherkapazität zu erhöhen, was sie ideal für unseren Einsatz macht.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="unser-plan-co-speicherung-und-bodenverbesserung">Unser Plan: CO₂-Speicherung und Bodenverbesserung<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#unser-plan-co-speicherung-und-bodenverbesserung" class="hash-link" aria-label="Direct link to Unser Plan: CO₂-Speicherung und Bodenverbesserung" title="Direct link to Unser Plan: CO₂-Speicherung und Bodenverbesserung">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="unser-plan-co-speicherung-und-bodenverbesserung">Unser Plan: CO₂-Speicherung und Bodenverbesserung<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#unser-plan-co-speicherung-und-bodenverbesserung" class="hash-link" aria-label="Direct link to Unser Plan: CO₂-Speicherung und Bodenverbesserung" title="Direct link to Unser Plan: CO₂-Speicherung und Bodenverbesserung">​</a></h2>
 <p>Dieses Jahr starten wir unser erstes großes CO₂-Speicherungsprojekt auf unserem Grundstück. Wir werden Pflanzenkohle verteilen und Terra Preta herstellen, eine nährstoffreiche Schwarzerde, die schon von den indigenen Völkern im Amazonasgebiet genutzt wurde. Unser Ziel: 5 Tonnen CO₂ speichern und dabei unsere Böden nachhaltig verbessern.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="menge-der-benötigten-pflanzenkohle">Menge der benötigten Pflanzenkohle<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#menge-der-ben%C3%B6tigten-pflanzenkohle" class="hash-link" aria-label="Direct link to Menge der benötigten Pflanzenkohle" title="Direct link to Menge der benötigten Pflanzenkohle">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="menge-der-benötigten-pflanzenkohle">Menge der benötigten Pflanzenkohle<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#menge-der-ben%C3%B6tigten-pflanzenkohle" class="hash-link" aria-label="Direct link to Menge der benötigten Pflanzenkohle" title="Direct link to Menge der benötigten Pflanzenkohle">​</a></h3>
 <p>Um 5 Tonnen CO₂ zu speichern, benötigen wir eine beträchtliche Menge Pflanzenkohle. Hier ist unsere Berechnung:</p>
 <p>1 kg Pflanzenkohle speichert etwa 2,9 kg CO₂.</p>
 <p>Um 5000 kg CO₂ zu speichern, benötigen wir etwa 1724 kg Pflanzenkohle.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="kosten-und-beschaffung">Kosten und Beschaffung<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#kosten-und-beschaffung" class="hash-link" aria-label="Direct link to Kosten und Beschaffung" title="Direct link to Kosten und Beschaffung">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="kosten-und-beschaffung">Kosten und Beschaffung<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#kosten-und-beschaffung" class="hash-link" aria-label="Direct link to Kosten und Beschaffung" title="Direct link to Kosten und Beschaffung">​</a></h3>
 <ul>
 <li><strong>Gewicht pro Einheit</strong>: ca. 450 kg</li>
 <li><strong>Preis pro Einheit</strong>: 373,00 € inkl. MwSt.</li>
 </ul>
 <p>Um die benötigte Menge von 1724 kg zu erhalten, benötigen wir ungefähr 4 Einheiten der Pflanzenkohle.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="gesamtkosten">Gesamtkosten<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#gesamtkosten" class="hash-link" aria-label="Direct link to Gesamtkosten" title="Direct link to Gesamtkosten">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="gesamtkosten">Gesamtkosten<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#gesamtkosten" class="hash-link" aria-label="Direct link to Gesamtkosten" title="Direct link to Gesamtkosten">​</a></h3>
 <p>Die Gesamtkosten für 4 Einheiten der Pflanzenkohle betragen 1492,00 €.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="praktische-anwendung-auf-unserem-grundstück">Praktische Anwendung auf unserem Grundstück<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#praktische-anwendung-auf-unserem-grundst%C3%BCck" class="hash-link" aria-label="Direct link to Praktische Anwendung auf unserem Grundstück" title="Direct link to Praktische Anwendung auf unserem Grundstück">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="vorbereitung-und-anwendung">Vorbereitung und Anwendung<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#vorbereitung-und-anwendung" class="hash-link" aria-label="Direct link to Vorbereitung und Anwendung" title="Direct link to Vorbereitung und Anwendung">​</a></h3>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="praktische-anwendung-auf-unserem-grundstück">Praktische Anwendung auf unserem Grundstück<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#praktische-anwendung-auf-unserem-grundst%C3%BCck" class="hash-link" aria-label="Direct link to Praktische Anwendung auf unserem Grundstück" title="Direct link to Praktische Anwendung auf unserem Grundstück">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="vorbereitung-und-anwendung">Vorbereitung und Anwendung<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#vorbereitung-und-anwendung" class="hash-link" aria-label="Direct link to Vorbereitung und Anwendung" title="Direct link to Vorbereitung und Anwendung">​</a></h3>
 <p>Die Pflanzenkohle wird in verschiedenen Schritten auf unserem Grundstück integriert:</p>
 <ol>
 <li><strong>Voraktivierung</strong>: Wir vermischen die Kohle mit stickstoffreichen Materialien wie Gülle oder Kompost, um sie zu aktivieren.</li>
 <li><strong>Einarbeitung in den Boden</strong>: Die aktivierte Pflanzenkohle wird in die oberen Bodenschichten eingearbeitet, um die Bodenstruktur zu verbessern und die Wasserhaltekapazität zu erhöhen.</li>
 <li><strong>Langfristige Bodenpflege</strong>: Durch die regelmäßige Zugabe von organischem Material wird die Bodenfruchtbarkeit nachhaltig gesteigert.</li>
 </ol>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="vorteile-für-unseren-permakultur-garten">Vorteile für unseren Permakultur-Garten<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#vorteile-f%C3%BCr-unseren-permakultur-garten" class="hash-link" aria-label="Direct link to Vorteile für unseren Permakultur-Garten" title="Direct link to Vorteile für unseren Permakultur-Garten">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="vorteile-für-unseren-permakultur-garten">Vorteile für unseren Permakultur-Garten<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#vorteile-f%C3%BCr-unseren-permakultur-garten" class="hash-link" aria-label="Direct link to Vorteile f�ür unseren Permakultur-Garten" title="Direct link to Vorteile für unseren Permakultur-Garten">​</a></h3>
 <ul>
 <li><strong>Bodenverbesserung</strong>: Erhöhte Wasserhaltefähigkeit und bessere Bodenstruktur.</li>
 <li><strong>Nährstoffspeicherung</strong>: Langfristige Freisetzung von Nährstoffen.</li>
 <li><strong>Klimaschutz</strong>: Langfristige Speicherung von Kohlenstoff im Boden, Reduktion der CO₂-Emissionen.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="seid-dabei">Seid dabei!<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#seid-dabei" class="hash-link" aria-label="Direct link to Seid dabei!" title="Direct link to Seid dabei!">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="seid-dabei">Seid dabei!<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#seid-dabei" class="hash-link" aria-label="Direct link to Seid dabei!" title="Direct link to Seid dabei!">​</a></h2>
 <p>Durch den Einsatz von Pflanzenkohle leisten wir einen wichtigen Beitrag zum Klimaschutz und verbessern gleichzeitig die Gesundheit und Fruchtbarkeit unserer Böden. Mit dem Ziel, 5 Tonnen CO₂ in diesem Jahr zu speichern, setzen wir ein starkes Zeichen für eine nachhaltige und klimafreundliche Landwirtschaft. Unsere Aktion ist die erste dieser Art in unserer Region, und wir freuen uns, diese Reise mit euch zu teilen.</p>
 <p>Bleibt dran für weitere Updates zu unserem Permakultur-Projekt und den Fortschritten, die wir in diesem Jahr erzielen. Habt ihr Fragen oder möchtet mehr über unsere Methoden erfahren? Hinterlasst einen Kommentar oder kontaktiert uns direkt!</p>
 <p><strong>Euer Permakultur-Team</strong></p>
@@ -95,16 +95,16 @@
         </item>
         <item>
             <title><![CDATA[Der stille Kampf der Birnenbäume]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/long-blog-post</link>
-            <guid>https://your-docusaurus-site.example.com/blog/long-blog-post</guid>
+            <link>https://your-docusaurus-site.example.com/perma/blog/long-blog-post</link>
+            <guid>https://your-docusaurus-site.example.com/perma/blog/long-blog-post</guid>
             <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Ein Überblick über den Birnenverfall]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ein-spannendes-projekt-für-nachhaltige-landwirtschaft">Ein spannendes Projekt für nachhaltige Landwirtschaft<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#ein-spannendes-projekt-f%C3%BCr-nachhaltige-landwirtschaft" class="hash-link" aria-label="Direct link to Ein spannendes Projekt für nachhaltige Landwirtschaft" title="Direct link to Ein spannendes Projekt für nachhaltige Landwirtschaft">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ein-spannendes-projekt-für-nachhaltige-landwirtschaft">Ein spannendes Projekt für nachhaltige Landwirtschaft<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#ein-spannendes-projekt-f%C3%BCr-nachhaltige-landwirtschaft" class="hash-link" aria-label="Direct link to Ein spannendes Projekt für nachhaltige Landwirtschaft" title="Direct link to Ein spannendes Projekt für nachhaltige Landwirtschaft">​</a></h2>
 <p>Hallo liebe Permakultur-Freunde!</p>
 <p>Wir stehen am Anfang eines aufregenden neuen Projekts und möchten euch auf unsere Reise mitnehmen. Dieses Jahr setzen wir uns ein ehrgeiziges Ziel: 5 Tonnen CO₂ speichern und gleichzeitig unseren Boden verbessern – und das alles mit der Kraft der Pflanzenkohle!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="was-ist-pflanzenkohle">Was ist Pflanzenkohle?<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#was-ist-pflanzenkohle" class="hash-link" aria-label="Direct link to Was ist Pflanzenkohle?" title="Direct link to Was ist Pflanzenkohle?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="was-ist-pflanzenkohle">Was ist Pflanzenkohle?<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#was-ist-pflanzenkohle" class="hash-link" aria-label="Direct link to Was ist Pflanzenkohle?" title="Direct link to Was ist Pflanzenkohle?">​</a></h2>
 <p>Pflanzenkohle, auch bekannt als Biochar, entsteht durch die Pyrolyse von organischem Material wie Holz oder landwirtschaftlichen Abfällen unter Ausschluss von Sauerstoff. Dieser Prozess wandelt die Biomasse in eine stabile Form von Kohlenstoff um, die im Boden eingebracht werden kann, um die Bodenstruktur zu verbessern und gleichzeitig CO₂ dauerhaft zu binden.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="unser-produkt-der-wahl">Unser Produkt der Wahl<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#unser-produkt-der-wahl" class="hash-link" aria-label="Direct link to Unser Produkt der Wahl" title="Direct link to Unser Produkt der Wahl">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="unser-produkt-der-wahl">Unser Produkt der Wahl<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#unser-produkt-der-wahl" class="hash-link" aria-label="Direct link to Unser Produkt der Wahl" title="Direct link to Unser Produkt der Wahl">​</a></h2>
 <p>Für unser Projekt haben wir uns für hochwertige Pflanzenkohle entschieden, die perfekt für verschiedene landwirtschaftliche Anwendungen geeignet ist:</p>
 <ul>
 <li>Gülle-, Mist- und Gärrestaufbereitung</li>
@@ -112,35 +112,35 @@
 <li>Kompostierung und Terra Preta Herstellung</li>
 </ul>
 <p>Unsere Pflanzenkohle wird voraktiviert, um die Nährstoffaufnahme und Speicherkapazität zu erhöhen, was sie ideal für unseren Einsatz macht.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="unser-plan-co-speicherung-und-bodenverbesserung">Unser Plan: CO₂-Speicherung und Bodenverbesserung<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#unser-plan-co-speicherung-und-bodenverbesserung" class="hash-link" aria-label="Direct link to Unser Plan: CO₂-Speicherung und Bodenverbesserung" title="Direct link to Unser Plan: CO₂-Speicherung und Bodenverbesserung">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="unser-plan-co-speicherung-und-bodenverbesserung">Unser Plan: CO₂-Speicherung und Bodenverbesserung<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#unser-plan-co-speicherung-und-bodenverbesserung" class="hash-link" aria-label="Direct link to Unser Plan: CO₂-Speicherung und Bodenverbesserung" title="Direct link to Unser Plan: CO₂-Speicherung und Bodenverbesserung">​</a></h2>
 <p>Dieses Jahr starten wir unser erstes großes CO₂-Speicherungsprojekt auf unserem Grundstück. Wir werden Pflanzenkohle verteilen und Terra Preta herstellen, eine nährstoffreiche Schwarzerde, die schon von den indigenen Völkern im Amazonasgebiet genutzt wurde. Unser Ziel: 5 Tonnen CO₂ speichern und dabei unsere Böden nachhaltig verbessern.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="menge-der-benötigten-pflanzenkohle">Menge der benötigten Pflanzenkohle<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#menge-der-ben%C3%B6tigten-pflanzenkohle" class="hash-link" aria-label="Direct link to Menge der benötigten Pflanzenkohle" title="Direct link to Menge der benötigten Pflanzenkohle">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="menge-der-benötigten-pflanzenkohle">Menge der benötigten Pflanzenkohle<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#menge-der-ben%C3%B6tigten-pflanzenkohle" class="hash-link" aria-label="Direct link to Menge der benötigten Pflanzenkohle" title="Direct link to Menge der benötigten Pflanzenkohle">​</a></h3>
 <p>Um 5 Tonnen CO₂ zu speichern, benötigen wir eine beträchtliche Menge Pflanzenkohle. Hier ist unsere Berechnung:</p>
 <p>1 kg Pflanzenkohle speichert etwa 2,9 kg CO₂.</p>
 <p>Um 5000 kg CO₂ zu speichern, benötigen wir etwa 1724 kg Pflanzenkohle.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="kosten-und-beschaffung">Kosten und Beschaffung<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#kosten-und-beschaffung" class="hash-link" aria-label="Direct link to Kosten und Beschaffung" title="Direct link to Kosten und Beschaffung">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="kosten-und-beschaffung">Kosten und Beschaffung<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#kosten-und-beschaffung" class="hash-link" aria-label="Direct link to Kosten und Beschaffung" title="Direct link to Kosten und Beschaffung">​</a></h3>
 <ul>
 <li><strong>Gewicht pro Einheit</strong>: ca. 450 kg</li>
 <li><strong>Preis pro Einheit</strong>: 373,00 € inkl. MwSt.</li>
 </ul>
 <p>Um die benötigte Menge von 1724 kg zu erhalten, benötigen wir ungefähr 4 Einheiten der Pflanzenkohle.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="gesamtkosten">Gesamtkosten<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#gesamtkosten" class="hash-link" aria-label="Direct link to Gesamtkosten" title="Direct link to Gesamtkosten">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="gesamtkosten">Gesamtkosten<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#gesamtkosten" class="hash-link" aria-label="Direct link to Gesamtkosten" title="Direct link to Gesamtkosten">​</a></h3>
 <p>Die Gesamtkosten für 4 Einheiten der Pflanzenkohle betragen 1492,00 €.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="praktische-anwendung-auf-unserem-grundstück">Praktische Anwendung auf unserem Grundstück<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#praktische-anwendung-auf-unserem-grundst%C3%BCck" class="hash-link" aria-label="Direct link to Praktische Anwendung auf unserem Grundstück" title="Direct link to Praktische Anwendung auf unserem Grundstück">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="vorbereitung-und-anwendung">Vorbereitung und Anwendung<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#vorbereitung-und-anwendung" class="hash-link" aria-label="Direct link to Vorbereitung und Anwendung" title="Direct link to Vorbereitung und Anwendung">​</a></h3>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="praktische-anwendung-auf-unserem-grundstück">Praktische Anwendung auf unserem Grundstück<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#praktische-anwendung-auf-unserem-grundst%C3%BCck" class="hash-link" aria-label="Direct link to Praktische Anwendung auf unserem Grundstück" title="Direct link to Praktische Anwendung auf unserem Grundstück">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="vorbereitung-und-anwendung">Vorbereitung und Anwendung<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#vorbereitung-und-anwendung" class="hash-link" aria-label="Direct link to Vorbereitung und Anwendung" title="Direct link to Vorbereitung und Anwendung">​</a></h3>
 <p>Die Pflanzenkohle wird in verschiedenen Schritten auf unserem Grundstück integriert:</p>
 <ol>
 <li><strong>Voraktivierung</strong>: Wir vermischen die Kohle mit stickstoffreichen Materialien wie Gülle oder Kompost, um sie zu aktivieren.</li>
 <li><strong>Einarbeitung in den Boden</strong>: Die aktivierte Pflanzenkohle wird in die oberen Bodenschichten eingearbeitet, um die Bodenstruktur zu verbessern und die Wasserhaltekapazität zu erhöhen.</li>
 <li><strong>Langfristige Bodenpflege</strong>: Durch die regelmäßige Zugabe von organischem Material wird die Bodenfruchtbarkeit nachhaltig gesteigert.</li>
 </ol>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="vorteile-für-unseren-permakultur-garten">Vorteile für unseren Permakultur-Garten<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#vorteile-f%C3%BCr-unseren-permakultur-garten" class="hash-link" aria-label="Direct link to Vorteile für unseren Permakultur-Garten" title="Direct link to Vorteile für unseren Permakultur-Garten">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="vorteile-für-unseren-permakultur-garten">Vorteile für unseren Permakultur-Garten<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#vorteile-f%C3%BCr-unseren-permakultur-garten" class="hash-link" aria-label="Direct link to Vorteile f�ür unseren Permakultur-Garten" title="Direct link to Vorteile für unseren Permakultur-Garten">​</a></h3>
 <ul>
 <li><strong>Bodenverbesserung</strong>: Erhöhte Wasserhaltefähigkeit und bessere Bodenstruktur.</li>
 <li><strong>Nährstoffspeicherung</strong>: Langfristige Freisetzung von Nährstoffen.</li>
 <li><strong>Klimaschutz</strong>: Langfristige Speicherung von Kohlenstoff im Boden, Reduktion der CO₂-Emissionen.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="seid-dabei">Seid dabei!<a href="https://your-docusaurus-site.example.com/blog/long-blog-post#seid-dabei" class="hash-link" aria-label="Direct link to Seid dabei!" title="Direct link to Seid dabei!">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="seid-dabei">Seid dabei!<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#seid-dabei" class="hash-link" aria-label="Direct link to Seid dabei!" title="Direct link to Seid dabei!">​</a></h2>
 <p>Durch den Einsatz von Pflanzenkohle leisten wir einen wichtigen Beitrag zum Klimaschutz und verbessern gleichzeitig die Gesundheit und Fruchtbarkeit unserer Böden. Mit dem Ziel, 5 Tonnen CO₂ in diesem Jahr zu speichern, setzen wir ein starkes Zeichen für eine nachhaltige und klimafreundliche Landwirtschaft. Unsere Aktion ist die erste dieser Art in unserer Region, und wir freuen uns, diese Reise mit euch zu teilen.</p>
 <p>Bleibt dran für weitere Updates zu unserem Permakultur-Projekt und den Fortschritten, die wir in diesem Jahr erzielen. Habt ihr Fragen oder möchtet mehr über unsere Methoden erfahren? Hinterlasst einen Kommentar oder kontaktiert uns direkt!</p>
 <p><strong>Euer Permakultur-Team</strong></p>
