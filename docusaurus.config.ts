@@ -95,6 +95,11 @@ const config: Config = {
           position: 'left'
         },
         {
+          to: '/events',
+          label: 'Events',
+          position: 'left'
+        },
+        {
           to: '/vision',
           label: 'Vision',
           position: 'left'
