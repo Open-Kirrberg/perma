@@ -94,6 +94,11 @@ const config: Config = {
           label: 'Baumschule',
           position: 'left'
         },
+        {
+          to: '/vision',
+          label: 'Vision',
+          position: 'left'
+        },
         {to: '/blog', label: 'Blog', position: 'right'},
         {
           href: 'https://github.com/facebook/docusaurus',
