@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[4865],{9789:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"baumschule"}')}}]);
