@@ -1,0 +1,212 @@
+[
+  {
+    "id": "A001",
+    "name": "Boskoop",
+    "fruchtart": "Apfel",
+    "beschreibung": "Eine alte, robuste Sorte mit kräftigem, leicht säuerlichem Geschmack.",
+    "link": "https://de.wikipedia.org/wiki/Boskoop"
+  },
+  {
+    "id": "A002",
+    "name": "Elstar",
+    "fruchtart": "Apfel",
+    "beschreibung": "Beliebte norddeutsche Sorte, aromatisch und vielseitig einsetzbar.",
+    "link": "https://de.wikipedia.org/wiki/Elstar"
+  },
+  {
+    "id": "A003",
+    "name": "Gravensteiner",
+    "fruchtart": "Apfel",
+    "beschreibung": "Traditionelle Sorte, saftig und aromatisch, häufig in historischen Obstgärten zu finden.",
+    "link": "https://de.wikipedia.org/wiki/Gravensteiner"
+  },
+  {
+    "id": "A004",
+    "name": "Cox Orange Pippin",
+    "fruchtart": "Apfel",
+    "beschreibung": "Klassische englische Sorte mit intensivem, komplexem Aroma.",
+    "link": "https://de.wikipedia.org/wiki/Cox_Orange_Pippin"
+  },
+  {
+    "id": "A005",
+    "name": "Golden Delicious",
+    "fruchtart": "Apfel",
+    "beschreibung": "Süß, saftig und vielseitig – eine der am weitesten verbreiteten Sorten weltweit.",
+    "link": "https://de.wikipedia.org/wiki/Golden_Delicious"
+  },
+  {
+    "id": "A006",
+    "name": "Braeburn",
+    "fruchtart": "Apfel",
+    "beschreibung": "Knackig mit ausgewogener Säure-Süße-Struktur; beliebt zum Frischverzehr und Kochen.",
+    "link": "https://de.wikipedia.org/wiki/Braeburn"
+  },
+  {
+    "id": "A007",
+    "name": "Jonathan",
+    "fruchtart": "Apfel",
+    "beschreibung": "Traditionell in Nordamerika, säuerlich und frisch – ideal für Apfelkuchen.",
+    "link": "https://de.wikipedia.org/wiki/Jonathan_(apple)"
+  },
+  {
+    "id": "A008",
+    "name": "Jonagold",
+    "fruchtart": "Apfel",
+    "beschreibung": "Kombination aus Jonathan und Golden Delicious, aromatisch und saftig.",
+    "link": "https://de.wikipedia.org/wiki/Jonagold"
+  },
+  {
+    "id": "A009",
+    "name": "Reinette",
+    "fruchtart": "Apfel",
+    "beschreibung": "Historische Sorte, würzig und aromatisch, häufig in alten Obstgärten anzutreffen.",
+    "link": "https://de.wikipedia.org/wiki/Reinette"
+  },
+  {
+    "id": "A010",
+    "name": "Northern Spy",
+    "fruchtart": "Apfel",
+    "beschreibung": "Alte amerikanische Sorte, ideal für Apfelkuchen – knackig und aromatisch.",
+    "link": "https://de.wikipedia.org/wiki/Northern_Spy"
+  },
+  {
+    "id": "A011",
+    "name": "Crispin (Mutsu)",
+    "fruchtart": "Apfel",
+    "beschreibung": "Große, saftige Sorte mit japanischem Ursprung, auch als Crispin bekannt.",
+    "link": "https://de.wikipedia.org/wiki/Mutsu_(apple)"
+  },
+  {
+    "id": "A012",
+    "name": "Granny Smith",
+    "fruchtart": "Apfel",
+    "beschreibung": "Klassische grüne Sorte, sehr säuerlich und knackig – weltweit bekannt.",
+    "link": "https://de.wikipedia.org/wiki/Granny_Smith"
+  },
+  {
+    "id": "A013",
+    "name": "Pink Lady",
+    "fruchtart": "Apfel",
+    "beschreibung": "Moderne Sorte, knackig und ausgewogen süß-säuerlich, beliebt im Frischverzehr.",
+    "link": "https://de.wikipedia.org/wiki/Pink_Lady_(apple)"
+  },
+  {
+    "id": "A014",
+    "name": "Bramley",
+    "fruchtart": "Apfel",
+    "beschreibung": "Traditionelle Kochapfelsorte aus Großbritannien, ideal für Apfelmus und Kuchen.",
+    "link": "https://de.wikipedia.org/wiki/Bramley"
+  },
+  {
+    "id": "A015",
+    "name": "Arkansas Black",
+    "fruchtart": "Apfel",
+    "beschreibung": "Dunkle, sehr aromatische Sorte mit guter Lagerfähigkeit.",
+    "link": "https://de.wikipedia.org/wiki/Arkansas_Black"
+  },
+  {
+    "id": "A016",
+    "name": "Liberty",
+    "fruchtart": "Apfel",
+    "beschreibung": "Krankheitsresistente Sorte mit ausgewogenem Geschmack und hoher Winterhärte.",
+    "link": "https://de.wikipedia.org/wiki/Liberty_(apple)"
+  },
+  {
+    "id": "A017",
+    "name": "McIntosh",
+    "fruchtart": "Apfel",
+    "beschreibung": "Klassische Sorte, saftig und aromatisch, ideal für Apfelmus und Säfte.",
+    "link": "https://de.wikipedia.org/wiki/McIntosh_(apple)"
+  },
+  {
+    "id": "A018",
+    "name": "Cortland",
+    "fruchtart": "Apfel",
+    "beschreibung": "Fest, aromatisch und vielseitig – besonders geeignet für Salate und Obstkörbe.",
+    "link": "https://de.wikipedia.org/wiki/Cortland_(apple)"
+  },
+  {
+    "id": "A019",
+    "name": "Empire",
+    "fruchtart": "Apfel",
+    "beschreibung": "Kombination aus McIntosh und Red Delicious, saftig und aromatisch.",
+    "link": "https://de.wikipedia.org/wiki/Empire_(apple)"
+  },
+  {
+    "id": "A020",
+    "name": "Fuji",
+    "fruchtart": "Apfel",
+    "beschreibung": "Süß, knackig und saftig, eine der beliebtesten modernen Apfelsorten weltweit.",
+    "link": "https://de.wikipedia.org/wiki/Fuji_(apple)"
+  },
+  {
+    "id": "A021",
+    "name": "Gala",
+    "fruchtart": "Apfel",
+    "beschreibung": "Klein, süß und aromatisch – ideal für den Frischverzehr und Obstsalate.",
+    "link": "https://de.wikipedia.org/wiki/Gala_(apple)"
+  },
+  {
+    "id": "A022",
+    "name": "Red Delicious",
+    "fruchtart": "Apfel",
+    "beschreibung": "Markante rote Farbe, süß, aber weniger aromatisch als andere Sorten.",
+    "link": "https://de.wikipedia.org/wiki/Red_Delicious"
+  },
+  {
+    "id": "A023",
+    "name": "Ambrosia",
+    "fruchtart": "Apfel",
+    "beschreibung": "Moderne Sorte, süß und aromatisch, sehr beliebt im Frischverzehr.",
+    "link": "https://de.wikipedia.org/wiki/Ambrosia_(apple)"
+  },
+  {
+    "id": "A024",
+    "name": "Honeycrisp",
+    "fruchtart": "Apfel",
+    "beschreibung": "Sehr knackig und saftig, mit einem ausgewogenen süß-säuerlichen Geschmack.",
+    "link": "https://de.wikipedia.org/wiki/Honeycrisp"
+  },
+  {
+    "id": "A025",
+    "name": "Rome Beauty",
+    "fruchtart": "Apfel",
+    "beschreibung": "Traditionelle Kochapfelsorte, bekannt für gleichmäßige Färbung und gute Lagerfähigkeit.",
+    "link": "https://de.wikipedia.org/wiki/Rome_Beauty"
+  },
+  {
+    "id": "A026",
+    "name": "Cameo",
+    "fruchtart": "Apfel",
+    "beschreibung": "Neuere Sorte, knackig und aromatisch, mit einer attraktiven rötlichen Schale.",
+    "link": "https://de.wikipedia.org/wiki/Cameo_(apple)"
+  },
+  {
+    "id": "A027",
+    "name": "Pacific Rose",
+    "fruchtart": "Apfel",
+    "beschreibung": "Moderne, aromatische Sorte mit einem leichten Rosenton in der Schale.",
+    "link": "https://de.wikipedia.org/wiki/Pacific_Rose"
+  },
+  {
+    "id": "A028",
+    "name": "Wealthy",
+    "fruchtart": "Apfel",
+    "beschreibung": "Klassische, robuste Sorte aus dem Norden der USA, ideal für kalte Regionen.",
+    "link": "https://de.wikipedia.org/wiki/Wealthy_(apple)"
+  },
+  {
+    "id": "A029",
+    "name": "Starking Delicious",
+    "fruchtart": "Apfel",
+    "beschreibung": "Weiterentwickelte Variante des Red Delicious, fest und süß im Geschmack.",
+    "link": "https://de.wikipedia.org/wiki/Starking_Delicious"
+  },
+  {
+    "id": "A030",
+    "name": "Grimes Golden",
+    "fruchtart": "Apfel",
+    "beschreibung": "Historische Sorte, aromatisch und saftig, besonders beliebt in älteren Obstgärten.",
+    "link": "https://de.wikipedia.org/wiki/Grimes_Golden"
+  }
+]

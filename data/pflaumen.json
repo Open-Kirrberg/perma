@@ -1,0 +1,143 @@
+[
+    {
+      "id": "P001",
+      "name": "Hauszwetschge",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Typische europäische Pflaumensorte, vielseitig einsetzbar und gut lagerfähig.",
+      "link": "https://de.wikipedia.org/wiki/Zwetschge"
+    },
+    {
+      "id": "P002",
+      "name": "Reine Claussen",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Beliebte Sorte mit saftigem und aromatischem Fruchtfleisch.",
+      "link": "https://example.com/reine-claussen"
+    },
+    {
+      "id": "P003",
+      "name": "President",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Traditionelle Sorte, bekannt für ihre feste Konsistenz und guten Geschmack.",
+      "link": "https://example.com/president-pflaume"
+    },
+    {
+      "id": "P004",
+      "name": "Opal",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Moderne Sorte mit leuchtender Farbe und süß-säuerlichem Geschmack.",
+      "link": "https://example.com/opal-pflaume"
+    },
+    {
+      "id": "P005",
+      "name": "Stanley",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Amerikanische Sorte, häufig zur Prunenherstellung genutzt, aromatisch und saftig.",
+      "link": "https://de.wikipedia.org/wiki/Stanley_(Pflaume)"
+    },
+    {
+      "id": "P006",
+      "name": "Reine Claude Verte",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Grüne Pflaumensorte, auch als Reine Claude bekannt, mit feiner Säure.",
+      "link": "https://de.wikipedia.org/wiki/Reine_Claude"
+    },
+    {
+      "id": "P007",
+      "name": "Reine Claude Jaune",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Gelbe Variante der Reine Claude, süß und saftig.",
+      "link": "https://de.wikipedia.org/wiki/Reine_Claude"
+    },
+    {
+      "id": "P008",
+      "name": "Italian Prune",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Italienische Sorte, ideal zur Herstellung von Prunes.",
+      "link": "https://example.com/italian-prune"
+    },
+    {
+      "id": "P009",
+      "name": "Bärenpflaume",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Robuste Sorte mit kräftiger Schale und intensivem Geschmack.",
+      "link": "https://example.com/baerenpflaume"
+    },
+    {
+      "id": "P010",
+      "name": "Bluefree",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Moderne Sorte mit tiefblauer Haut und süß-säuerlichem Fruchtfleisch.",
+      "link": "https://example.com/bluefree"
+    },
+    {
+      "id": "P011",
+      "name": "Victoria",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Klassische Sorte, bekannt für gute Lagerfähigkeit und intensiven Geschmack.",
+      "link": "https://example.com/victoria-pflaume"
+    },
+    {
+      "id": "P012",
+      "name": "Greengage (Reine Claude)",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Edle Sorte, die für ihre Süße und aromatische Fruchtnote geschätzt wird.",
+      "link": "https://de.wikipedia.org/wiki/Reine_Claude"
+    },
+    {
+      "id": "P013",
+      "name": "Opal Purple",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Variante der Opal-Sorte mit dunkler, purpurroter Haut.",
+      "link": "https://example.com/opal-purple"
+    },
+    {
+      "id": "P014",
+      "name": "President Extra",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Weiterentwickelte Version der President-Sorte, mit intensivem Geschmack.",
+      "link": "https://example.com/president-extra"
+    },
+    {
+      "id": "P015",
+      "name": "Fellenberg Pflaume",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Traditionelle Sorte mit ausgewogenem Aroma, benannt nach ihrem Herkunftsort.",
+      "link": "https://example.com/fellenberg-pflaume"
+    },
+    {
+      "id": "P016",
+      "name": "Heritage Pflaume",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Alte, traditionsreiche Sorte, bekannt für robuste Früchte.",
+      "link": "https://example.com/heritage-pflaume"
+    },
+    {
+      "id": "P017",
+      "name": "Autumn Pflaume",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Spätreife Sorte mit intensivem Aroma.",
+      "link": "https://example.com/autumn-pflaume"
+    },
+    {
+      "id": "P018",
+      "name": "Spring Pflaume",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Frühsaison-Sorte mit frisch-säuerlichem Geschmack.",
+      "link": "https://example.com/spring-pflaume"
+    },
+    {
+      "id": "P019",
+      "name": "Royal Pflaume",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Edle Sorte mit intensivem Geschmack und feiner Textur.",
+      "link": "https://example.com/royal-pflaume"
+    },
+    {
+      "id": "P020",
+      "name": "Imperial Pflaume",
+      "fruchtart": "Pflaume",
+      "beschreibung": "Moderne Sorte, die durch hervorragende Fruchtigkeit besticht.",
+      "link": "https://example.com/imperial-pflaume"
+    }
+  ]
+  

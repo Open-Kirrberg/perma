@@ -89,6 +89,11 @@ const config: Config = {
           label: 'Map',
           position: 'left'
         },
+        {
+          to: '/baumschule',
+          label: 'Baumschule',
+          position: 'left'
+        },
         {to: '/blog', label: 'Blog', position: 'right'},
         {
           href: 'https://github.com/facebook/docusaurus',
@@ -164,6 +169,15 @@ const config: Config = {
           path: 'wiki',
           routeBasePath: 'wiki',
           sidebarPath: './sidebarsWiki.ts',
+        } satisfies DocsOptions,
+      ],
+      [
+        'content-docs',
+        {
+          id: 'baumschule',
+          path: 'baumschule',
+          routeBasePath: 'baumschule',
+          sidebarPath: './sidebarsBaumschule.ts',
         } satisfies DocsOptions,
       ],
     ],

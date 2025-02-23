@@ -1,0 +1,26 @@
+
+
+### Tabelle: Veredlungsunterlagen
+
+| ID    | Produktname                                    | Beschreibung                                                                              | Link  |
+|-------|------------------------------------------------|-------------------------------------------------------------------------------------------|-------|
+| U001  | A2 – Apfelunterlage                            | Stark wachsende, sehr frostharte Unterlage für Äpfel                                      | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-a2-apfelunterlage) |
+| U002  | B9 – Apfelunterlage                            | Schwach wachsende, sehr frostharte Unterlage für Äpfel                                      | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-b9-apfelunterlage) |
+| U003  | Bittenfelder Sämling – Apfelunterlage            | Stark wachsende Sämlings-Unterlage für Äpfel                                                | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-bittenfelder-saemling-apfelunterlage) |
+| U004  | D22/12 – Apfelunterlage                        | Schwach bis mittelstark wachsende, frostharte Unterlage für Äpfel                           | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-d22-12-apfelunterlage) |
+| U005  | M4 – Apfelunterlage                            | Mittelstark wachsende Unterlage für Äpfel                                                   | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-m4-apfelunterlage) |
+| U006  | M7 – Apfelunterlage                            | Mittelstark wachsende Unterlage für Äpfel                                                   | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-m7-apfelunterlage) |
+| U007  | M9 – Apfelunterlage                            | Schwach wachsende Unterlage für Äpfel                                                       | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-m9-apfelunterlage) |
+| U008  | Geneva 11 – Apfelunterlage                     | Schwachwachsende, feuerbrandtolerante Unterlage für Äpfel                                   | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-geneva-11-apfelunterlage) |
+| U009  | M 26 – Apfelunterlage                          | Schwach wachsende, gesunde Unterlage für Äpfel                                              | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-m-26-apfelunterlage) |
+| U010  | MM 111 – Apfelunterlage                        | Mittelstark wachsende Unterlage für Äpfel                                                   | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-mm-111-apfelunterlage) |
+| U011  | Kirchensaller Mostbirne – Birnenunterlage        | Stark wachsende Unterlage für Birnen                                                        | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-kirchensaller-mostbirne-birnenunterlage) |
+| U012  | Pyrodwarf® – Birnenunterlage                   | Schwachwachsende Veredlungsunterlage für Birnen                                             | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-pyrodwarf-birnenunterlage) |
+| U013  | Quitte A – Birnenunterlage                     | Mittelstark wachsende Unterlage für Birnen                                                  | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-quitte-a-birnenunterlage) |
+| U014  | Quitte BA 29 – Birnenunterlage                 | Mittelstark wachsende, relativ kalktolerante Unterlage für Birnen                             | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-quitte-ba-29-birnenunterlage) |
+| U015  | Quitte C – Birnenunterlage                     | Schwachwachsende Unterlage für Birnen                                                       | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-quitte-c-birnenunterlage) |
+| U016  | ViruTherm 1 (S) – Birnenunterlage              | Schwach bis mittelstark wachsende Unterlage für Birnen                                      | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-virutherm-1-s-birnenunterlage) |
+| U017  | ViruTherm 2 (S) – Birnenunterlage              | Mittelstark wachsende Unterlage für Birnen                                                  | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-virutherm-2-s-birnenunterlage) |
+| U018  | Alkavo – Kirschenunterlage                     | Starkwachsende Unterlage für Kirschen                                                       | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-alkavo-kirschenunterlage) |
+| U019  | GiSelA 5 ® – Kirschenunterlage                 | Schwachwachsende Unterlage für Kirschen                                                     | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-gisela-5-kirschenunterlage) |
+| U020  | Colt – Kirschenunterlage                       | Mittelstark- bis starkwachsende Unterlage für Kirschen                                      | [Zum Artikel](https://www.eggert-baumschulen.de/de/produkt/unterlage-colt-kirschenunterlage) |

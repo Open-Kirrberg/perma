@@ -1,0 +1,107 @@
+[
+  {
+    "id": "B001",
+    "name": "Williams Christ",
+    "fruchtart": "Birne",
+    "beschreibung": "Traditionelle englische Birnensorte, saftig und aromatisch, vielseitig einsetzbar.",
+    "link": "https://de.wikipedia.org/wiki/Williams-Christ"
+  },
+  {
+    "id": "B002",
+    "name": "Conference",
+    "fruchtart": "Birne",
+    "beschreibung": "Beliebte europäische Sorte, süß und saftig, häufig in modernen Obstgärten genutzt.",
+    "link": "https://de.wikipedia.org/wiki/Conference_(pear)"
+  },
+  {
+    "id": "B003",
+    "name": "Clapp's Favourite",
+    "fruchtart": "Birne",
+    "beschreibung": "Alte britische Sorte, bekannt für ihren knackigen Biss und intensiven Geschmack.",
+    "link": "https://de.wikipedia.org/wiki/Clapp%27s_Favourite"
+  },
+  {
+    "id": "B004",
+    "name": "Abate Fetel",
+    "fruchtart": "Birne",
+    "beschreibung": "Französische Birnensorte, zart, süß und geschmackvoll, ideal für den Frischverzehr.",
+    "link": "https://de.wikipedia.org/wiki/Abate_Fetel"
+  },
+  {
+    "id": "B005",
+    "name": "Doyenne du Comice",
+    "fruchtart": "Birne",
+    "beschreibung": "Sehr aromatisch und edel, gilt als eine der besten Dessertbirnen.",
+    "link": "https://de.wikipedia.org/wiki/Doyenne_du_Comice"
+  },
+  {
+    "id": "B006",
+    "name": "Bosc",
+    "fruchtart": "Birne",
+    "beschreibung": "Knackige, leicht nussige Sorte, traditionell und gut lagerfähig.",
+    "link": "https://de.wikipedia.org/wiki/Bosc_(pear)"
+  },
+  {
+    "id": "B007",
+    "name": "Concorde",
+    "fruchtart": "Birne",
+    "beschreibung": "Moderne Sorte, süß und aromatisch, mit festem Fruchtfleisch.",
+    "link": "https://de.wikipedia.org/wiki/Concorde_(pear)"
+  },
+  {
+    "id": "B008",
+    "name": "Seckel",
+    "fruchtart": "Birne",
+    "beschreibung": "Kleine, sehr aromatische Tafelbirne, ideal als Snack oder in Obstkörben.",
+    "link": "https://de.wikipedia.org/wiki/Seckel_(pear)"
+  },
+  {
+    "id": "B009",
+    "name": "Kaiserbirne",
+    "fruchtart": "Birne",
+    "beschreibung": "Historische Sorte, fest, saftig und mit intensivem Geschmack.",
+    "link": "https://de.wikipedia.org/wiki/Kaiserbirne"
+  },
+  {
+    "id": "B010",
+    "name": "Anjou",
+    "fruchtart": "Birne",
+    "beschreibung": "Beliebte Sorte, mild, saftig und mit hoher Marktrelevanz im Obstbau.",
+    "link": "https://de.wikipedia.org/wiki/Anjou_(pear)"
+  },
+  {
+    "id": "B011",
+    "name": "Packham's Triumph",
+    "fruchtart": "Birne",
+    "beschreibung": "Australische Sorte, aromatisch und fest – ideal zum Kochen und Frischverzehr.",
+    "link": "https://de.wikipedia.org/wiki/Packham%27s_Triumph"
+  },
+  {
+    "id": "B012",
+    "name": "Forelle",
+    "fruchtart": "Birne",
+    "beschreibung": "Seltene, traditionelle Sorte mit intensivem Geschmack.",
+    "link": "https://de.wikipedia.org/wiki/Forelle_(pear)"
+  },
+  {
+    "id": "B013",
+    "name": "Dutch Gold",
+    "fruchtart": "Birne",
+    "beschreibung": "Historische niederländische Sorte, süß und saftig, ideal als Tafelbirne.",
+    "link": "https://de.wikipedia.org/wiki/Dutch_Gold_(pear)"
+  },
+  {
+    "id": "B014",
+    "name": "Red Bartlett",
+    "fruchtart": "Birne",
+    "beschreibung": "Rote Variante mit intensivem, würzigem Geschmack.",
+    "link": "https://de.wikipedia.org/wiki/Red_Bartlett"
+  },
+  {
+    "id": "B015",
+    "name": "Comice",
+    "fruchtart": "Birne",
+    "beschreibung": "Sehr saftige und aromatische Sorte, häufig als Dessertbirne verwendet.",
+    "link": "https://de.wikipedia.org/wiki/Comice_(pear)"
+  }
+]

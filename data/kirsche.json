@@ -1,0 +1,24 @@
+[
+    {
+      "id": "K001",
+      "name": "Bing",
+      "fruchtart": "Kirsche",
+      "beschreibung": "Sehr süße, dunkle Kirsche, beliebt im Frischverzehr und zur Verarbeitung.",
+      "link": "https://de.wikipedia.org/wiki/Bing-Kirsche"
+    },
+    {
+      "id": "K002",
+      "name": "Rainier",
+      "fruchtart": "Kirsche",
+      "beschreibung": "Hellrote bis gelbe Kirsche, bekannt für ihr außergewöhnliches Aroma.",
+      "link": "https://de.wikipedia.org/wiki/Rainier-Kirsche"
+    },
+    {
+      "id": "K003",
+      "name": "Stella",
+      "fruchtart": "Kirsche",
+      "beschreibung": "Selbstfruchtend und robust, ideal für kleinere Gärten.",
+      "link": "https://de.wikipedia.org/wiki/Stella-Kirsche"
+    }
+  ]
+  

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "M001",
+    "name": "Mirabelle de Metz",
+    "fruchtart": "Mirabelle",
+    "beschreibung": "Die bekannteste Mirabellensorte aus Metz, Frankreich, mit süß-säuerlichem Geschmack.",
+    "link": "https://de.wikipedia.org/wiki/Mirabelle"
+  },
+  {
+    "id": "M002",
+    "name": "Mirabelle de Nancy",
+    "fruchtart": "Mirabelle",
+    "beschreibung": "Eine Variante der Mirabelle aus der Region Nancy, geschätzt für ihr feines Aroma.",
+    "link": "https://example.com/mirabelle-de-nancy"
+  },
+  {
+    "id": "M003",
+    "name": "Goldmirabelle",
+    "fruchtart": "Mirabelle",
+    "beschreibung": "Eine gelbliche Variante der Mirabelle, die besonders süß und aromatisch ist.",
+    "link": "https://example.com/goldmirabelle"
+  },
+  {
+    "id": "M004",
+    "name": "Rote Mirabelle",
+    "fruchtart": "Mirabelle",
+    "beschreibung": "Eine seltene, rötliche Variante mit intensiver Fruchtnote.",
+    "link": "https://example.com/rote-mirabelle"
+  },
+  {
+    "id": "M005",
+    "name": "Fellenberg Mirabelle",
+    "fruchtart": "Mirabelle",
+    "beschreibung": "Traditionelle Sorte, benannt nach ihrem Herkunftsort, mit ausgewogenem Aroma.",
+    "link": "https://example.com/fellenberg-mirabelle"
+  },
+  {
+    "id": "M006",
+    "name": "Süßmirabelle",
+    "fruchtart": "Mirabelle",
+    "beschreibung": "Eine besonders süße Variante, ideal für Desserts und Marmeladen.",
+    "link": "https://example.com/suessmirabelle"
+  },
+  {
+    "id": "M007",
+    "name": "Herbstmirabelle",
+    "fruchtart": "Mirabelle",
+    "beschreibung": "Reift spät im Jahr und bietet eine intensive Süße bei leicht säuerlichem Abgang.",
+    "link": "https://example.com/herbstmirabelle"
+  },
+  {
+    "id": "M008",
+    "name": "Wintermirabelle",
+    "fruchtart": "Mirabelle",
+    "beschreibung": "Robuste Sorte, die auch in kühleren Wintern reift und ein ausgewogenes Aroma bietet.",
+    "link": "https://example.com/wintermirabelle"
+  }
+]

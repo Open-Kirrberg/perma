@@ -1,0 +1,108 @@
+[
+    {
+      "id": "F001",
+      "name": "Redhaven",
+      "fruchtart": "Pfirsich",
+      "beschreibung": "Beliebte Pfirsichsorte mit saftigem Fruchtfleisch und intensiver Süße.",
+      "link": "https://de.wikipedia.org/wiki/Redhaven"
+    },
+    {
+      "id": "F002",
+      "name": "Elberta",
+      "fruchtart": "Pfirsich",
+      "beschreibung": "Klassische Sorte, groß und aromatisch, ideal für den Frischverzehr.",
+      "link": "https://de.wikipedia.org/wiki/Elberta"
+    },
+    {
+      "id": "F003",
+      "name": "Suncrest",
+      "fruchtart": "Pfirsich",
+      "beschreibung": "Moderne Sorte, süß und saftig, mit intensivem Aroma.",
+      "link": "https://example.com/suncrest"
+    },
+    {
+      "id": "F004",
+      "name": "O'Henry",
+      "fruchtart": "Pfirsich",
+      "beschreibung": "Robuste Sorte, bekannt für ihren süß-säuerlichen Geschmack und gute Lagerfähigkeit.",
+      "link": "https://example.com/ohenry"
+    },
+    {
+      "id": "F005",
+      "name": "Saturn (Donut Peach)",
+      "fruchtart": "Pfirsich",
+      "beschreibung": "Flach geformter Pfirsich, bekannt als Donut Peach, mit mildem, süßem Geschmack.",
+      "link": "https://de.wikipedia.org/wiki/Donut_Peach"
+    },
+    {
+      "id": "F006",
+      "name": "Cresthaven",
+      "fruchtart": "Pfirsich",
+      "beschreibung": "Moderne Sorte, die durch ihre knackige Schale und intensiven Geschmack besticht.",
+      "link": "https://example.com/cresthaven"
+    },
+    {
+      "id": "F007",
+      "name": "July Prince",
+      "fruchtart": "Pfirsich",
+      "beschreibung": "Frühsorte, die im Juli reift und ein besonders saftiges Fruchtfleisch besitzt.",
+      "link": "https://example.com/july-prince"
+    },
+    {
+      "id": "F008",
+      "name": "Frost Peach",
+      "fruchtart": "Pfirsich",
+      "beschreibung": "Kältebeständige Sorte, die auch in kühlen Regionen hervorragend gedeiht.",
+      "link": "https://example.com/frost-peach"
+    },
+    {
+      "id": "F009",
+      "name": "Baby Gold",
+      "fruchtart": "Pfirsich",
+      "beschreibung": "Kleine, aromatische Sorte, ideal für den Frischverzehr.",
+      "link": "https://example.com/baby-gold"
+    },
+    {
+      "id": "F010",
+      "name": "Independence",
+      "fruchtart": "Pfirsich",
+      "beschreibung": "Selbstfruchtende Sorte mit intensiver Süße und guter Widerstandsfähigkeit.",
+      "link": "https://example.com/independence-peach"
+    },
+    {
+      "id": "F011",
+      "name": "Fantasia",
+      "fruchtart": "Pfirsich",
+      "beschreibung": "Moderne Sorte, bekannt für ihr besonders aromatisches Fruchtfleisch.",
+      "link": "https://example.com/fantasia-peach"
+    },
+    {
+      "id": "F012",
+      "name": "Springcrest",
+      "fruchtart": "Pfirsich",
+      "beschreibung": "Frühsaison-Pfirsich mit zartem, saftigem Fruchtfleisch und ausgewogenem Geschmack.",
+      "link": "https://example.com/springcrest"
+    },
+    {
+      "id": "F013",
+      "name": "Babcock",
+      "fruchtart": "Pfirsich",
+      "beschreibung": "Traditionelle Sorte, bekannt für ihre robuste Natur und intensiven Geschmack.",
+      "link": "https://example.com/babcock"
+    },
+    {
+      "id": "F014",
+      "name": "White Peach (Snow King)",
+      "fruchtart": "Pfirsich",
+      "beschreibung": "Helle Sorte mit zartem, süßem Geschmack, ideal für den Frischverzehr.",
+      "link": "https://example.com/white-peach-snow-king"
+    },
+    {
+      "id": "F015",
+      "name": "King of Peaches",
+      "fruchtart": "Pfirsich",
+      "beschreibung": "Fiktive Sorte, die als besonders edel und fruchtig gilt.",
+      "link": "https://example.com/king-of-peaches"
+    }
+  ]
+  
