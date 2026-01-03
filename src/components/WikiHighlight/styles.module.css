@@ -1,0 +1,148 @@
+/**
+ * WikiHighlight Styles
+ */
+
+.wikiSection {
+  padding: 5rem 0;
+  background: var(--color-bg-sage);
+}
+
+.wikiLayout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  align-items: center;
+}
+
+.wikiImageContainer {
+  position: relative;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+}
+
+.wikiImage {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.wikiImageOverlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 2rem;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.7));
+}
+
+.wikiImageText {
+  color: white;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.wikiContent {
+  padding: 1rem;
+}
+
+.wikiTitle {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 2.5rem;
+  color: var(--color-text-dark);
+  margin-bottom: 1rem;
+}
+
+.wikiDescription {
+  font-size: 1.1rem;
+  color: var(--color-text-muted);
+  line-height: 1.7;
+  margin-bottom: 2rem;
+}
+
+.categoriesGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.categoryCard {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  background: white;
+  border-radius: 10px;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.categoryCard:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+}
+
+.categoryIcon {
+  font-size: 2rem;
+}
+
+.categoryInfo {
+  flex: 1;
+}
+
+.categoryTitle {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--color-text-dark);
+  margin: 0;
+}
+
+.categoryCount {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
+/* Responsive */
+@media screen and (max-width: 996px) {
+  .wikiSection {
+    padding: 3rem 0;
+  }
+
+  .wikiLayout {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .wikiContent {
+    text-align: center;
+    padding: 0;
+  }
+
+  .wikiTitle {
+    font-size: 2rem;
+  }
+
+  .categoriesGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .categoryCard {
+    justify-content: flex-start;
+  }
+}
+
+/* Dark mode */
+[data-theme='dark'] .wikiSection {
+  background: var(--color-bg-sage);
+}
+
+[data-theme='dark'] .categoryCard {
+  background: #2a2a2a;
+}
+
+[data-theme='dark'] .categoryTitle {
+  color: #e0e0e0;
+}

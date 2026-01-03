@@ -1,62 +1,74 @@
-import clsx from "clsx";
-import Heading from "@theme/Heading";
-import styles from "./styles.module.css";
+import clsx from 'clsx';
+import Link from '@docusaurus/Link';
+import Heading from '@theme/Heading';
+import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<"svg">>;
   img: string;
   description: JSX.Element;
+  link: string;
+  linkText: string;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Permakultur Grundlagen",
-    Svg: require("@site/static/img/permaculture_basics.jpeg").default,
-    img: "img/permaculture_basics.jpeg",
+    title: 'Permakultur Grundlagen',
+    img: '/img/permaculture_basics.jpeg',
     description: (
       <>
         Entdecke die Grundlagen der Permakultur und erfahre, wie du nachhaltige
         Lebensräume gestalten kannst, die im Einklang mit der Natur stehen.
       </>
     ),
+    link: '/vision',
+    linkText: 'Mehr erfahren',
   },
   {
-    title: "Pflanzen Wiki",
-    Svg: require("@site/static/img/permaculture_basics.jpeg").default,
-    img: "img/wiki.jpeg",
+    title: 'Interaktive Karte',
+    img: '/img/areas.jpeg',
     description: (
       <>
-        Erkunde unser umfangreiches Pflanzen Wiki mit allen Pflanzenarten, die
-        auf unseren Permakultur-Flächen zu finden sind. Finde Anbauhinweise,
-        Pflegetipps und mehr!
+        Erkunde unsere Permakultur-Flächen auf einer interaktiven Karte mit
+        Satellitenansicht und Baumstandorten.
       </>
     ),
+    link: '/map',
+    linkText: 'Karte öffnen',
   },
   {
-    title: "Flächenübersicht der Permakultur Gärten",
-    Svg: require("@site/static/img/permaculture_basics.jpeg").default,
-    img: "img/areas.jpeg",
+    title: 'Baumschule',
+    img: '/img/klimakarte.png',
     description: (
       <>
-        Schau dir die Übersicht unserer Permakultur-Gärten an und entdecke die
-        Bepflanzungshistorie sowie spannende Geschichten hinter jedem Garten.
+        Unsere Baumschule bietet eine Auswahl an Obstbäumen und Edelreisern
+        für dein eigenes Permakultur-Projekt.
       </>
     ),
+    link: '/baumschule',
+    linkText: 'Zur Baumschule',
   },
 ];
 
-function Feature({ title, Svg, img, description }: FeatureItem) {
+function Feature({title, img, description, link, linkText}: FeatureItem) {
   return (
-    <div className={clsx("col col--4")}>
-      <div className="text--center">
-        {/* <Svg className={styles.featureSvg} role="img" /> */}
-        <img src={img} />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
-      </div>
+    <div className={clsx('col col--4', styles.featureCol)}>
+      <article className={styles.featureCard}>
+        <div className={styles.featureImageContainer}>
+          <img src={img} alt={title} className={styles.featureImage} />
+          <div className={styles.featureImageOverlay}></div>
+        </div>
+        <div className={styles.featureContent}>
+          <Heading as="h3" className={styles.featureTitle}>
+            {title}
+          </Heading>
+          <p className={styles.featureDescription}>{description}</p>
+          <Link to={link} className={styles.featureLink}>
+            {linkText}
+            <span className={styles.arrow}>→</span>
+          </Link>
+        </div>
+      </article>
     </div>
   );
 }
@@ -65,6 +77,14 @@ export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
       <div className="container">
+        <div className={styles.sectionHeader}>
+          <Heading as="h2" className={styles.sectionTitle}>
+            Was wir bieten
+          </Heading>
+          <p className={styles.sectionSubtitle}>
+            Ressourcen und Wissen für nachhaltige Gartenarbeit
+          </p>
+        </div>
         <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
