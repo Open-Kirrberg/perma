@@ -1,6 +1,7 @@
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import WikiHighlight from '@site/src/components/WikiHighlight';
@@ -11,6 +12,7 @@ import styles from './index.module.css';
 
 function HomepageHero() {
   const {siteConfig} = useDocusaurusContext();
+  const heroImage = useBaseUrl('/img/wiese_001/wiese.jpg');
   return (
     <header className={styles.hero}>
       {/* Decorative organic shapes */}
@@ -49,7 +51,7 @@ function HomepageHero() {
       {/* Hero image with overlay */}
       <div className={styles.heroImageContainer}>
         <img
-          src="/img/wiese_001/wiese.jpg"
+          src={heroImage}
           alt="Permakultur Garten"
           className={styles.heroImage}
         />

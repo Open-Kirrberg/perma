@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from '@docusaurus/Link';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
@@ -35,6 +36,7 @@ const wikiCategories = [
 ];
 
 export default function WikiHighlight(): JSX.Element {
+  const wikiImage = useBaseUrl('/img/wiki.jpeg');
   return (
     <section className={styles.wikiSection}>
       <div className="container">
@@ -42,7 +44,7 @@ export default function WikiHighlight(): JSX.Element {
           {/* Left: Image */}
           <div className={styles.wikiImageContainer}>
             <img
-              src="/img/wiki.jpeg"
+              src={wikiImage}
               alt="Pflanzen Wiki"
               className={styles.wikiImage}
             />

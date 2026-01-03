@@ -4,11 +4,17 @@ title: Wiese auf dem Kirschberg
 ---
 
 import BrowserOnly from '@docusaurus/BrowserOnly';
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
+export const HeroImage = () => {
+  const imgSrc = useBaseUrl('/img/wiese_001/wiese.jpg');
+  return <img src={imgSrc} alt="Wiese auf dem Kirschberg" className="area-hero-image" />;
+};
 
 # Wiese auf dem Kirschberg
 
 <div className="area-hero">
-  <img src="/img/wiese_001/wiese.jpg" alt="Wiese auf dem Kirschberg" className="area-hero-image" />
+  <HeroImage />
 </div>
 
 <div className="area-layout">

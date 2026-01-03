@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from '@docusaurus/Link';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
 interface AreaCardProps {
@@ -31,12 +32,13 @@ const AreaCard: React.FC<AreaCardProps> = ({
   size,
   status,
 }) => {
+  const imageSrc = useBaseUrl(image || '');
   return (
     <Link to={link} className={styles.cardLink}>
       <article className={styles.card}>
         <div className={styles.imageContainer}>
           {image ? (
-            <img src={image} alt={title} className={styles.image} />
+            <img src={imageSrc} alt={title} className={styles.image} />
           ) : (
             <div className={styles.imagePlaceholder}>
               <span>🌿</span>
