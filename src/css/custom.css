@@ -106,6 +106,60 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
 }
 
+/* Mobile Navbar Sidebar Fix */
+.navbar-sidebar {
+  display: flex !important;
+  flex-direction: column !important;
+  height: 100vh !important;
+  background: var(--ifm-background-color) !important;
+}
+
+.navbar-sidebar__brand {
+  flex-shrink: 0 !important;
+  padding: 0.75rem 1rem !important;
+  border-bottom: 1px solid var(--color-bg-sage);
+  background: var(--color-bg-sage);
+  min-height: auto !important;
+  height: auto !important;
+}
+
+.navbar-sidebar__items {
+  flex: 1 1 auto !important;
+  overflow-y: auto !important;
+  padding: 0.5rem 0 !important;
+}
+
+.navbar-sidebar .menu__list {
+  padding: 0 0.75rem;
+}
+
+.navbar-sidebar .menu__link {
+  padding: 0.85rem 1rem;
+  font-size: 1.05rem;
+  font-weight: 500;
+  border-radius: 8px;
+  margin-bottom: 0.15rem;
+  color: var(--color-text-dark);
+}
+
+.navbar-sidebar .menu__link:hover {
+  background: var(--color-bg-sage);
+  color: var(--ifm-color-primary);
+}
+
+[data-theme='dark'] .navbar-sidebar__brand {
+  background: #1e1e1e;
+  border-color: #333;
+}
+
+[data-theme='dark'] .navbar-sidebar .menu__link {
+  color: var(--color-text-dark);
+}
+
+[data-theme='dark'] .navbar-sidebar .menu__link:hover {
+  background: #2a2a2a;
+}
+
 /* Footer Styling */
 .footer {
   background: linear-gradient(135deg, var(--ifm-color-primary-darkest), var(--color-soil));
