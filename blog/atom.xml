@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-site.example.com/perma/blog</id>
-    <title>My Site Blog</title>
+    <id>https://open-kirrberg.github.io/perma/blog</id>
+    <title>Permakultur Kirrberg Blog</title>
     <updated>2024-05-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-site.example.com/perma/blog"/>
-    <subtitle>My Site Blog</subtitle>
-    <icon>https://your-docusaurus-site.example.com/perma/img/favicon.ico</icon>
+    <link rel="alternate" href="https://open-kirrberg.github.io/perma/blog"/>
+    <subtitle>Permakultur Kirrberg Blog</subtitle>
+    <icon>https://open-kirrberg.github.io/perma/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[CO₂ Café]]></title>
-        <id>https://your-docusaurus-site.example.com/perma/blog/co2-cafe-1</id>
-        <link href="https://your-docusaurus-site.example.com/perma/blog/co2-cafe-1"/>
+        <id>https://open-kirrberg.github.io/perma/blog/co2-cafe</id>
+        <link href="https://open-kirrberg.github.io/perma/blog/co2-cafe"/>
         <updated>2024-05-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Datum: [Datum hier einfügen]]]></summary>
         <content type="html"><![CDATA[<p><strong>Datum:</strong> [Datum hier einfügen]
 <strong>Zeit:</strong> [Zeit hier einfügen]
 <strong>Ort:</strong> [Ort hier einfügen]</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="trink-einen-kaffee-und-speichere-co">Trink einen Kaffee und speichere CO₂!<a href="https://your-docusaurus-site.example.com/perma/blog/co2-cafe-1#trink-einen-kaffee-und-speichere-co" class="hash-link" aria-label="Direct link to Trink einen Kaffee und speichere CO₂!" title="Direct link to Trink einen Kaffee und speichere CO₂!">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="trink-einen-kaffee-und-speichere-co">Trink einen Kaffee und speichere CO₂!<a href="https://open-kirrberg.github.io/perma/blog/co2-cafe#trink-einen-kaffee-und-speichere-co" class="hash-link" aria-label="Direkter Link zur Trink einen Kaffee und speichere CO₂!" title="Direkter Link zur Trink einen Kaffee und speichere CO₂!">​</a></h2>
 <p>Komm zu unserem öffentlichen Café und hilf uns, Pflanzenkohle zu finanzieren, die CO₂ speichert und den Boden verbessert!</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="was-dich-erwartet">Was dich erwartet:<a href="https://your-docusaurus-site.example.com/perma/blog/co2-cafe-1#was-dich-erwartet" class="hash-link" aria-label="Direct link to Was dich erwartet:" title="Direct link to Was dich erwartet:">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="was-dich-erwartet">Was dich erwartet:<a href="https://open-kirrberg.github.io/perma/blog/co2-cafe#was-dich-erwartet" class="hash-link" aria-label="Direkter Link zur Was dich erwartet:" title="Direkter Link zur Was dich erwartet:">​</a></h3>
 <ul>
 <li><strong>Kaffee, Kuchen und Bier</strong>: Genieße leckere Speisen und Getränke, die helfen, CO₂ zu speichern!</li>
 <li><strong>Gutscheine</strong>: Erhalte einen Gutschein für jede Bestellung, die symbolisiert, wie viel CO₂ du speicherst.</li>
@@ -32,8 +32,8 @@
 <table><thead><tr><th>Ding</th><th>CO₂-Verbrauch</th></tr></thead><tbody><tr><td>1 Tasse Kaffee</td><td>ca. 0,15 kg CO₂</td></tr><tr><td>1 km Autofahren (Diesel)</td><td>ca. 0,18 kg CO₂</td></tr><tr><td>1 km Autofahren (Benzin)</td><td>ca. 0,2 kg CO₂</td></tr><tr><td>1 Ei</td><td>ca. 0,2 kg CO₂</td></tr><tr><td>1 kWh Strom (EU-Durchschnitt)</td><td>ca. 0,3 kg CO₂</td></tr><tr><td>1 kg Äpfel (lokal produziert)</td><td>ca. 0,5 kg CO₂</td></tr><tr><td>1 kg Brot</td><td>ca. 1 kg CO₂</td></tr><tr><td>1 Liter Milch</td><td>ca. 1,2 kg CO₂</td></tr><tr><td>1 kg Tomaten (lokal produziert)</td><td>ca. 2 kg CO₂</td></tr><tr><td>1 kg Hühnerfleisch</td><td>ca. 6 kg CO₂</td></tr><tr><td>1 kg Schweinefleisch</td><td>ca. 12 kg CO₂</td></tr><tr><td>1 kg Käse</td><td>ca. 13,5 kg CO₂</td></tr><tr><td>1 kg Rindfleisch</td><td>ca. 27 kg CO₂</td></tr><tr><td>1 Jeans (Produktion und Transport)</td><td>ca. 33 kg CO₂</td></tr><tr><td>1 Smartphone (Produktion)</td><td>ca. 70 kg CO₂</td></tr><tr><td>1 Waschmaschine (Nutzung über die gesamte</td><td>ca. 490 kg CO₂</td></tr><tr><td>Lebensdauer)</td><td></td></tr><tr><td>1 Flug von Frankfurt nach New York</td><td>ca. 3,4 Tonnen CO₂</td></tr><tr><td>(Hin- und Rückflug, pro Person)</td><td></td></tr></tbody></table>
 <p>Diese Werte sind Durchschnittswerte und können je nach Region, Produktionsweise und anderen Faktoren vari</p>]]></content>
         <author>
-            <name>Sebastian Heußer</name>
-            <uri>https://twitter.com/huhn511</uri>
+            <name>Team Permakultur</name>
+            <uri>https://open-kirrberg.de</uri>
         </author>
         <category label="Pflanzenkohle" term="Pflanzenkohle"/>
         <category label="Terra Preta" term="Terra Preta"/>
@@ -41,16 +41,16 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Unsere grüne Mission: 5 Tonnen CO₂ binden mit Pflanzenkohle!]]></title>
-        <id>https://your-docusaurus-site.example.com/perma/blog/long-blog-post</id>
-        <link href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post"/>
+        <id>https://open-kirrberg.github.io/perma/blog/2024/05/17/co2-aktion</id>
+        <link href="https://open-kirrberg.github.io/perma/blog/2024/05/17/co2-aktion"/>
         <updated>2024-05-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Ein spannendes Projekt für nachhaltige Landwirtschaft]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ein-spannendes-projekt-für-nachhaltige-landwirtschaft">Ein spannendes Projekt für nachhaltige Landwirtschaft<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#ein-spannendes-projekt-f%C3%BCr-nachhaltige-landwirtschaft" class="hash-link" aria-label="Direct link to Ein spannendes Projekt für nachhaltige Landwirtschaft" title="Direct link to Ein spannendes Projekt für nachhaltige Landwirtschaft">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ein-spannendes-projekt-für-nachhaltige-landwirtschaft">Ein spannendes Projekt für nachhaltige Landwirtschaft<a href="https://open-kirrberg.github.io/perma/blog/2024/05/17/co2-aktion#ein-spannendes-projekt-f%C3%BCr-nachhaltige-landwirtschaft" class="hash-link" aria-label="Direkter Link zur Ein spannendes Projekt für nachhaltige Landwirtschaft" title="Direkter Link zur Ein spannendes Projekt für nachhaltige Landwirtschaft">​</a></h2>
 <p>Hallo liebe Permakultur-Freunde!</p>
 <p>Wir stehen am Anfang eines aufregenden neuen Projekts und möchten euch auf unsere Reise mitnehmen. Dieses Jahr setzen wir uns ein ehrgeiziges Ziel: 5 Tonnen CO₂ speichern und gleichzeitig unseren Boden verbessern – und das alles mit der Kraft der Pflanzenkohle!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="was-ist-pflanzenkohle">Was ist Pflanzenkohle?<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#was-ist-pflanzenkohle" class="hash-link" aria-label="Direct link to Was ist Pflanzenkohle?" title="Direct link to Was ist Pflanzenkohle?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="was-ist-pflanzenkohle">Was ist Pflanzenkohle?<a href="https://open-kirrberg.github.io/perma/blog/2024/05/17/co2-aktion#was-ist-pflanzenkohle" class="hash-link" aria-label="Direkter Link zur Was ist Pflanzenkohle?" title="Direkter Link zur Was ist Pflanzenkohle?">​</a></h2>
 <p>Pflanzenkohle, auch bekannt als Biochar, entsteht durch die Pyrolyse von organischem Material wie Holz oder landwirtschaftlichen Abfällen unter Ausschluss von Sauerstoff. Dieser Prozess wandelt die Biomasse in eine stabile Form von Kohlenstoff um, die im Boden eingebracht werden kann, um die Bodenstruktur zu verbessern und gleichzeitig CO₂ dauerhaft zu binden.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="unser-produkt-der-wahl">Unser Produkt der Wahl<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#unser-produkt-der-wahl" class="hash-link" aria-label="Direct link to Unser Produkt der Wahl" title="Direct link to Unser Produkt der Wahl">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="unser-produkt-der-wahl">Unser Produkt der Wahl<a href="https://open-kirrberg.github.io/perma/blog/2024/05/17/co2-aktion#unser-produkt-der-wahl" class="hash-link" aria-label="Direkter Link zur Unser Produkt der Wahl" title="Direkter Link zur Unser Produkt der Wahl">​</a></h2>
 <p>Für unser Projekt haben wir uns für hochwertige Pflanzenkohle entschieden, die perfekt für verschiedene landwirtschaftliche Anwendungen geeignet ist:</p>
 <ul>
 <li>Gülle-, Mist- und Gärrestaufbereitung</li>
@@ -58,43 +58,43 @@
 <li>Kompostierung und Terra Preta Herstellung</li>
 </ul>
 <p>Unsere Pflanzenkohle wird voraktiviert, um die Nährstoffaufnahme und Speicherkapazität zu erhöhen, was sie ideal für unseren Einsatz macht.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="unser-plan-co-speicherung-und-bodenverbesserung">Unser Plan: CO₂-Speicherung und Bodenverbesserung<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#unser-plan-co-speicherung-und-bodenverbesserung" class="hash-link" aria-label="Direct link to Unser Plan: CO₂-Speicherung und Bodenverbesserung" title="Direct link to Unser Plan: CO₂-Speicherung und Bodenverbesserung">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="unser-plan-co-speicherung-und-bodenverbesserung">Unser Plan: CO₂-Speicherung und Bodenverbesserung<a href="https://open-kirrberg.github.io/perma/blog/2024/05/17/co2-aktion#unser-plan-co-speicherung-und-bodenverbesserung" class="hash-link" aria-label="Direkter Link zur Unser Plan: CO₂-Speicherung und Bodenverbesserung" title="Direkter Link zur Unser Plan: CO₂-Speicherung und Bodenverbesserung">​</a></h2>
 <p>Dieses Jahr starten wir unser erstes großes CO₂-Speicherungsprojekt auf unserem Grundstück. Wir werden Pflanzenkohle verteilen und Terra Preta herstellen, eine nährstoffreiche Schwarzerde, die schon von den indigenen Völkern im Amazonasgebiet genutzt wurde. Unser Ziel: 5 Tonnen CO₂ speichern und dabei unsere Böden nachhaltig verbessern.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="menge-der-benötigten-pflanzenkohle">Menge der benötigten Pflanzenkohle<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#menge-der-ben%C3%B6tigten-pflanzenkohle" class="hash-link" aria-label="Direct link to Menge der benötigten Pflanzenkohle" title="Direct link to Menge der benötigten Pflanzenkohle">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="menge-der-benötigten-pflanzenkohle">Menge der benötigten Pflanzenkohle<a href="https://open-kirrberg.github.io/perma/blog/2024/05/17/co2-aktion#menge-der-ben%C3%B6tigten-pflanzenkohle" class="hash-link" aria-label="Direkter Link zur Menge der benötigten Pflanzenkohle" title="Direkter Link zur Menge der benötigten Pflanzenkohle">​</a></h3>
 <p>Um 5 Tonnen CO₂ zu speichern, benötigen wir eine beträchtliche Menge Pflanzenkohle. Hier ist unsere Berechnung:</p>
 <p>1 kg Pflanzenkohle speichert etwa 2,9 kg CO₂.</p>
 <p>Um 5000 kg CO₂ zu speichern, benötigen wir etwa 1724 kg Pflanzenkohle.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="kosten-und-beschaffung">Kosten und Beschaffung<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#kosten-und-beschaffung" class="hash-link" aria-label="Direct link to Kosten und Beschaffung" title="Direct link to Kosten und Beschaffung">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="kosten-und-beschaffung">Kosten und Beschaffung<a href="https://open-kirrberg.github.io/perma/blog/2024/05/17/co2-aktion#kosten-und-beschaffung" class="hash-link" aria-label="Direkter Link zur Kosten und Beschaffung" title="Direkter Link zur Kosten und Beschaffung">​</a></h3>
 <ul>
 <li><strong>Gewicht pro Einheit</strong>: ca. 450 kg</li>
 <li><strong>Preis pro Einheit</strong>: 373,00 € inkl. MwSt.</li>
 </ul>
 <p>Um die benötigte Menge von 1724 kg zu erhalten, benötigen wir ungefähr 4 Einheiten der Pflanzenkohle.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="gesamtkosten">Gesamtkosten<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#gesamtkosten" class="hash-link" aria-label="Direct link to Gesamtkosten" title="Direct link to Gesamtkosten">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="gesamtkosten">Gesamtkosten<a href="https://open-kirrberg.github.io/perma/blog/2024/05/17/co2-aktion#gesamtkosten" class="hash-link" aria-label="Direkter Link zur Gesamtkosten" title="Direkter Link zur Gesamtkosten">​</a></h3>
 <p>Die Gesamtkosten für 4 Einheiten der Pflanzenkohle betragen 1492,00 €.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="praktische-anwendung-auf-unserem-grundstück">Praktische Anwendung auf unserem Grundstück<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#praktische-anwendung-auf-unserem-grundst%C3%BCck" class="hash-link" aria-label="Direct link to Praktische Anwendung auf unserem Grundstück" title="Direct link to Praktische Anwendung auf unserem Grundstück">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="vorbereitung-und-anwendung">Vorbereitung und Anwendung<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#vorbereitung-und-anwendung" class="hash-link" aria-label="Direct link to Vorbereitung und Anwendung" title="Direct link to Vorbereitung und Anwendung">​</a></h3>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="praktische-anwendung-auf-unserem-grundstück">Praktische Anwendung auf unserem Grundstück<a href="https://open-kirrberg.github.io/perma/blog/2024/05/17/co2-aktion#praktische-anwendung-auf-unserem-grundst%C3%BCck" class="hash-link" aria-label="Direkter Link zur Praktische Anwendung auf unserem Grundstück" title="Direkter Link zur Praktische Anwendung auf unserem Grundstück">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="vorbereitung-und-anwendung">Vorbereitung und Anwendung<a href="https://open-kirrberg.github.io/perma/blog/2024/05/17/co2-aktion#vorbereitung-und-anwendung" class="hash-link" aria-label="Direkter Link zur Vorbereitung und Anwendung" title="Direkter Link zur Vorbereitung und Anwendung">​</a></h3>
 <p>Die Pflanzenkohle wird in verschiedenen Schritten auf unserem Grundstück integriert:</p>
 <ol>
 <li><strong>Voraktivierung</strong>: Wir vermischen die Kohle mit stickstoffreichen Materialien wie Gülle oder Kompost, um sie zu aktivieren.</li>
 <li><strong>Einarbeitung in den Boden</strong>: Die aktivierte Pflanzenkohle wird in die oberen Bodenschichten eingearbeitet, um die Bodenstruktur zu verbessern und die Wasserhaltekapazität zu erhöhen.</li>
 <li><strong>Langfristige Bodenpflege</strong>: Durch die regelmäßige Zugabe von organischem Material wird die Bodenfruchtbarkeit nachhaltig gesteigert.</li>
 </ol>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="vorteile-für-unseren-permakultur-garten">Vorteile für unseren Permakultur-Garten<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#vorteile-f%C3%BCr-unseren-permakultur-garten" class="hash-link" aria-label="Direct link to Vorteile f�ür unseren Permakultur-Garten" title="Direct link to Vorteile für unseren Permakultur-Garten">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="vorteile-für-unseren-permakultur-garten">Vorteile für unseren Permakultur-Garten<a href="https://open-kirrberg.github.io/perma/blog/2024/05/17/co2-aktion#vorteile-f%C3%BCr-unseren-permakultur-garten" class="hash-link" aria-label="Direkter Link zur Vorteile für unseren Permakultur-Garten" title="Direkter Link zur Vorteile für unseren Permakultur-Garten">​</a></h3>
 <ul>
 <li><strong>Bodenverbesserung</strong>: Erhöhte Wasserhaltefähigkeit und bessere Bodenstruktur.</li>
 <li><strong>Nährstoffspeicherung</strong>: Langfristige Freisetzung von Nährstoffen.</li>
 <li><strong>Klimaschutz</strong>: Langfristige Speicherung von Kohlenstoff im Boden, Reduktion der CO₂-Emissionen.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="seid-dabei">Seid dabei!<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#seid-dabei" class="hash-link" aria-label="Direct link to Seid dabei!" title="Direct link to Seid dabei!">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="seid-dabei">Seid dabei!<a href="https://open-kirrberg.github.io/perma/blog/2024/05/17/co2-aktion#seid-dabei" class="hash-link" aria-label="Direkter Link zur Seid dabei!" title="Direkter Link zur Seid dabei!">​</a></h2>
 <p>Durch den Einsatz von Pflanzenkohle leisten wir einen wichtigen Beitrag zum Klimaschutz und verbessern gleichzeitig die Gesundheit und Fruchtbarkeit unserer Böden. Mit dem Ziel, 5 Tonnen CO₂ in diesem Jahr zu speichern, setzen wir ein starkes Zeichen für eine nachhaltige und klimafreundliche Landwirtschaft. Unsere Aktion ist die erste dieser Art in unserer Region, und wir freuen uns, diese Reise mit euch zu teilen.</p>
 <p>Bleibt dran für weitere Updates zu unserem Permakultur-Projekt und den Fortschritten, die wir in diesem Jahr erzielen. Habt ihr Fragen oder möchtet mehr über unsere Methoden erfahren? Hinterlasst einen Kommentar oder kontaktiert uns direkt!</p>
 <p><strong>Euer Permakultur-Team</strong></p>
 <p><img decoding="async" loading="lazy" src="https://example.com/pflanzenkohle.jpg" alt="Pflanzenkohle" class="img_ev3q"></p>
 <p><a href="https://chiemgau-agrar.de/produkt/pflanzenkohle-gemahlen-karbosave/" target="_blank" rel="noopener noreferrer">https://chiemgau-agrar.de/produkt/pflanzenkohle-gemahlen-karbosave/</a></p>]]></content>
         <author>
-            <name>Sebastian Heußer</name>
-            <uri>https://twitter.com/huhn511</uri>
+            <name>Team Permakultur</name>
+            <uri>https://open-kirrberg.de</uri>
         </author>
         <category label="Pflanzenkohle" term="Pflanzenkohle"/>
         <category label="Terra Preta" term="Terra Preta"/>
@@ -102,63 +102,64 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Der stille Kampf der Birnenbäume]]></title>
-        <id>https://your-docusaurus-site.example.com/perma/blog/long-blog-post</id>
-        <link href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post"/>
+        <id>https://open-kirrberg.github.io/perma/blog/2024/05/07/birnenverfall</id>
+        <link href="https://open-kirrberg.github.io/perma/blog/2024/05/07/birnenverfall"/>
         <updated>2024-05-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Ein Überblick über den Birnenverfall]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ein-spannendes-projekt-für-nachhaltige-landwirtschaft">Ein spannendes Projekt für nachhaltige Landwirtschaft<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#ein-spannendes-projekt-f%C3%BCr-nachhaltige-landwirtschaft" class="hash-link" aria-label="Direct link to Ein spannendes Projekt für nachhaltige Landwirtschaft" title="Direct link to Ein spannendes Projekt für nachhaltige Landwirtschaft">​</a></h2>
-<p>Hallo liebe Permakultur-Freunde!</p>
-<p>Wir stehen am Anfang eines aufregenden neuen Projekts und möchten euch auf unsere Reise mitnehmen. Dieses Jahr setzen wir uns ein ehrgeiziges Ziel: 5 Tonnen CO₂ speichern und gleichzeitig unseren Boden verbessern – und das alles mit der Kraft der Pflanzenkohle!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="was-ist-pflanzenkohle">Was ist Pflanzenkohle?<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#was-ist-pflanzenkohle" class="hash-link" aria-label="Direct link to Was ist Pflanzenkohle?" title="Direct link to Was ist Pflanzenkohle?">​</a></h2>
-<p>Pflanzenkohle, auch bekannt als Biochar, entsteht durch die Pyrolyse von organischem Material wie Holz oder landwirtschaftlichen Abfällen unter Ausschluss von Sauerstoff. Dieser Prozess wandelt die Biomasse in eine stabile Form von Kohlenstoff um, die im Boden eingebracht werden kann, um die Bodenstruktur zu verbessern und gleichzeitig CO₂ dauerhaft zu binden.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="unser-produkt-der-wahl">Unser Produkt der Wahl<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#unser-produkt-der-wahl" class="hash-link" aria-label="Direct link to Unser Produkt der Wahl" title="Direct link to Unser Produkt der Wahl">​</a></h2>
-<p>Für unser Projekt haben wir uns für hochwertige Pflanzenkohle entschieden, die perfekt für verschiedene landwirtschaftliche Anwendungen geeignet ist:</p>
-<ul>
-<li>Gülle-, Mist- und Gärrestaufbereitung</li>
-<li>Einstreu im Stall</li>
-<li>Kompostierung und Terra Preta Herstellung</li>
-</ul>
-<p>Unsere Pflanzenkohle wird voraktiviert, um die Nährstoffaufnahme und Speicherkapazität zu erhöhen, was sie ideal für unseren Einsatz macht.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="unser-plan-co-speicherung-und-bodenverbesserung">Unser Plan: CO₂-Speicherung und Bodenverbesserung<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#unser-plan-co-speicherung-und-bodenverbesserung" class="hash-link" aria-label="Direct link to Unser Plan: CO₂-Speicherung und Bodenverbesserung" title="Direct link to Unser Plan: CO₂-Speicherung und Bodenverbesserung">​</a></h2>
-<p>Dieses Jahr starten wir unser erstes großes CO₂-Speicherungsprojekt auf unserem Grundstück. Wir werden Pflanzenkohle verteilen und Terra Preta herstellen, eine nährstoffreiche Schwarzerde, die schon von den indigenen Völkern im Amazonasgebiet genutzt wurde. Unser Ziel: 5 Tonnen CO₂ speichern und dabei unsere Böden nachhaltig verbessern.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="menge-der-benötigten-pflanzenkohle">Menge der benötigten Pflanzenkohle<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#menge-der-ben%C3%B6tigten-pflanzenkohle" class="hash-link" aria-label="Direct link to Menge der benötigten Pflanzenkohle" title="Direct link to Menge der benötigten Pflanzenkohle">​</a></h3>
-<p>Um 5 Tonnen CO₂ zu speichern, benötigen wir eine beträchtliche Menge Pflanzenkohle. Hier ist unsere Berechnung:</p>
-<p>1 kg Pflanzenkohle speichert etwa 2,9 kg CO₂.</p>
-<p>Um 5000 kg CO₂ zu speichern, benötigen wir etwa 1724 kg Pflanzenkohle.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="kosten-und-beschaffung">Kosten und Beschaffung<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#kosten-und-beschaffung" class="hash-link" aria-label="Direct link to Kosten und Beschaffung" title="Direct link to Kosten und Beschaffung">​</a></h3>
-<ul>
-<li><strong>Gewicht pro Einheit</strong>: ca. 450 kg</li>
-<li><strong>Preis pro Einheit</strong>: 373,00 € inkl. MwSt.</li>
-</ul>
-<p>Um die benötigte Menge von 1724 kg zu erhalten, benötigen wir ungefähr 4 Einheiten der Pflanzenkohle.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="gesamtkosten">Gesamtkosten<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#gesamtkosten" class="hash-link" aria-label="Direct link to Gesamtkosten" title="Direct link to Gesamtkosten">​</a></h3>
-<p>Die Gesamtkosten für 4 Einheiten der Pflanzenkohle betragen 1492,00 €.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="praktische-anwendung-auf-unserem-grundstück">Praktische Anwendung auf unserem Grundstück<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#praktische-anwendung-auf-unserem-grundst%C3%BCck" class="hash-link" aria-label="Direct link to Praktische Anwendung auf unserem Grundstück" title="Direct link to Praktische Anwendung auf unserem Grundstück">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="vorbereitung-und-anwendung">Vorbereitung und Anwendung<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#vorbereitung-und-anwendung" class="hash-link" aria-label="Direct link to Vorbereitung und Anwendung" title="Direct link to Vorbereitung und Anwendung">​</a></h3>
-<p>Die Pflanzenkohle wird in verschiedenen Schritten auf unserem Grundstück integriert:</p>
-<ol>
-<li><strong>Voraktivierung</strong>: Wir vermischen die Kohle mit stickstoffreichen Materialien wie Gülle oder Kompost, um sie zu aktivieren.</li>
-<li><strong>Einarbeitung in den Boden</strong>: Die aktivierte Pflanzenkohle wird in die oberen Bodenschichten eingearbeitet, um die Bodenstruktur zu verbessern und die Wasserhaltekapazität zu erhöhen.</li>
-<li><strong>Langfristige Bodenpflege</strong>: Durch die regelmäßige Zugabe von organischem Material wird die Bodenfruchtbarkeit nachhaltig gesteigert.</li>
-</ol>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="vorteile-für-unseren-permakultur-garten">Vorteile für unseren Permakultur-Garten<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#vorteile-f%C3%BCr-unseren-permakultur-garten" class="hash-link" aria-label="Direct link to Vorteile f�ür unseren Permakultur-Garten" title="Direct link to Vorteile für unseren Permakultur-Garten">​</a></h3>
-<ul>
-<li><strong>Bodenverbesserung</strong>: Erhöhte Wasserhaltefähigkeit und bessere Bodenstruktur.</li>
-<li><strong>Nährstoffspeicherung</strong>: Langfristige Freisetzung von Nährstoffen.</li>
-<li><strong>Klimaschutz</strong>: Langfristige Speicherung von Kohlenstoff im Boden, Reduktion der CO₂-Emissionen.</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="seid-dabei">Seid dabei!<a href="https://your-docusaurus-site.example.com/perma/blog/long-blog-post#seid-dabei" class="hash-link" aria-label="Direct link to Seid dabei!" title="Direct link to Seid dabei!">​</a></h2>
-<p>Durch den Einsatz von Pflanzenkohle leisten wir einen wichtigen Beitrag zum Klimaschutz und verbessern gleichzeitig die Gesundheit und Fruchtbarkeit unserer Böden. Mit dem Ziel, 5 Tonnen CO₂ in diesem Jahr zu speichern, setzen wir ein starkes Zeichen für eine nachhaltige und klimafreundliche Landwirtschaft. Unsere Aktion ist die erste dieser Art in unserer Region, und wir freuen uns, diese Reise mit euch zu teilen.</p>
-<p>Bleibt dran für weitere Updates zu unserem Permakultur-Projekt und den Fortschritten, die wir in diesem Jahr erzielen. Habt ihr Fragen oder möchtet mehr über unsere Methoden erfahren? Hinterlasst einen Kommentar oder kontaktiert uns direkt!</p>
-<p><strong>Euer Permakultur-Team</strong></p>
-<p><img decoding="async" loading="lazy" src="https://example.com/pflanzenkohle.jpg" alt="Pflanzenkohle" class="img_ev3q"></p>
-<p><a href="https://chiemgau-agrar.de/produkt/pflanzenkohle-gemahlen-karbosave/" target="_blank" rel="noopener noreferrer">https://chiemgau-agrar.de/produkt/pflanzenkohle-gemahlen-karbosave/</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ein-überblick-über-den-birnenverfall">Ein Überblick über den Birnenverfall<a href="https://open-kirrberg.github.io/perma/blog/2024/05/07/birnenverfall#ein-%C3%BCberblick-%C3%BCber-den-birnenverfall" class="hash-link" aria-label="Direkter Link zur Ein Überblick über den Birnenverfall" title="Direkter Link zur Ein Überblick über den Birnenverfall">​</a></h2>
+<p>In der Welt der Obstgärten und Streuobstwiesen zeichnet sich ein stilles Drama ab. Eine Bedrohung, die fast alle Birnensorten betrifft, vom Williams Christ bis zur Guter Luise, breitet sich aus – der Birnenverfall. Dieses Phänomen, verursacht durch zellwandlose Bakterien, bekannt als Phytoplasmen, gefährdet die Existenz unserer geliebten Birnenbäume.</p>
+<p>Die Phytoplasmen blockieren die Leitungsbahnen der Bäume, was den Transport von Nährstoffen und Wasser behindert und letztendlich zum Absterben der Bäume führt. Übertragen werden diese schädlichen Organismen hauptsächlich durch kleine Insekten, die Birnenblattsauger.</p>
+<p>Die Symptome des Birnenverfalls sind oft erst spät erkennbar. Eine vorzeitige Rotfärbung des Laubs im August, schwacher Wuchs und eine lichte Krone sind Anzeichen, die auf diese Krankheit hindeuten könnten. Bei Sorten, die normalerweise große Früchte tragen, wie die Abate Fetel oder die Conference, kann die Bildung kleiner Birnen ebenfalls ein Warnsignal sein.</p>
+<p>Die Diagnose des Birnenverfalls ist nicht immer einfach. Viele Symptome können auch andere Ursachen haben, und nur ein PCR-Test im Labor kann hundertprozentige Gewissheit bieten. Doch die Zeit drängt, denn einmal befallen, haben die Bäume nur noch wenige Jahre zu leben.</p>
+<p>Der Birnenverfall ist kein lokales Problem; es ist ein europaweites Phänomen, das in den letzten Jahren durch die Auswirkungen des Klimawandels noch verschärft wurde. In der Schweiz sind beispielsweise 60 bis 80 Prozent der Hochstamm-Birnbäume betroffen.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="was-können-wir-also-tun-um-unsere-birnenbäume-zu-schützen">Was können wir also tun, um unsere Birnenbäume zu schützen?<a href="https://open-kirrberg.github.io/perma/blog/2024/05/07/birnenverfall#was-k%C3%B6nnen-wir-also-tun-um-unsere-birnenb%C3%A4ume-zu-sch%C3%BCtzen" class="hash-link" aria-label="Direkter Link zur Was können wir also tun, um unsere Birnenbäume zu schützen?" title="Direkter Link zur Was können wir also tun, um unsere Birnenbäume zu schützen?">​</a></h2>
+<p>Die Forschung nach wirksamen Gegenmaßnahmen ist im Gange, und es ist die Hoffnung aller Obstbauern und Permakultur-Enthusiasten, dass eine Lösung gefunden wird, bevor es zu spät ist.</p>
+<p>Quelle:
+(1) Birnenverfall: Das Ende von Guter Luise und Williams Christ?. <a href="https://www.br.de/nachrichten/wissen/birnenverfall-das-ende-von-guter-luise-und-williams-christ,UBMxUC5" target="_blank" rel="noopener noreferrer">https://www.br.de/nachrichten/wissen/birnenverfall-das-ende-von-guter-luise-und-williams-christ,UBMxUC5</a>.</p>]]></content>
         <author>
-            <name>Sebastian Heußer</name>
-            <uri>https://twitter.com/huhn511</uri>
+            <name>Team Permakultur</name>
+            <uri>https://open-kirrberg.de</uri>
         </author>
         <category label="Birne" term="Birne"/>
         <category label="Alte-Sorten" term="Alte-Sorten"/>
         <category label="Klimawandel" term="Klimawandel"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Willkommen bei Open-Kirrberg Permakultur]]></title>
+        <id>https://open-kirrberg.github.io/perma/blog/willkommen</id>
+        <link href="https://open-kirrberg.github.io/perma/blog/willkommen"/>
+        <updated>2024-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Herzlich willkommen auf unserer Permakultur-Webseite! Wir freuen uns, dass du den Weg zu uns gefunden hast.]]></summary>
+        <content type="html"><![CDATA[<p>Herzlich willkommen auf unserer Permakultur-Webseite! Wir freuen uns, dass du den Weg zu uns gefunden hast.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="unsere-vision">Unsere Vision<a href="https://open-kirrberg.github.io/perma/blog/willkommen#unsere-vision" class="hash-link" aria-label="Direkter Link zur Unsere Vision" title="Direkter Link zur Unsere Vision">​</a></h2>
+<p>Open-Kirrberg ist ein gemeinschaftliches Permakultur-Projekt, das sich der nachhaltigen Landwirtschaft, dem Erhalt alter Obstsorten und der Förderung der Biodiversität verschrieben hat. Unser Ziel ist es, einen Raum zu schaffen, in dem Mensch und Natur im Einklang leben können.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="was-ist-permakultur">Was ist Permakultur?<a href="https://open-kirrberg.github.io/perma/blog/willkommen#was-ist-permakultur" class="hash-link" aria-label="Direkter Link zur Was ist Permakultur?" title="Direkter Link zur Was ist Permakultur?">​</a></h2>
+<p>Permakultur ist ein Gestaltungskonzept für nachhaltige Lebensräume. Sie verbindet traditionelles Wissen mit modernen Erkenntnissen, um Systeme zu schaffen, die sich selbst erhalten und regenerieren. Bei uns bedeutet das:</p>
+<ul>
+<li><strong>Alte Obstsorten erhalten</strong> - Wir pflegen und dokumentieren historische Apfel-, Birnen- und Kirschsorten</li>
+<li><strong>Boden aufbauen</strong> - Durch Kompost, Mulch und Terra Preta verbessern wir unsere Böden nachhaltig</li>
+<li><strong>Gemeinschaft fördern</strong> - Wissen teilen und gemeinsam lernen</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="was-findest-du-auf-dieser-seite">Was findest du auf dieser Seite?<a href="https://open-kirrberg.github.io/perma/blog/willkommen#was-findest-du-auf-dieser-seite" class="hash-link" aria-label="Direkter Link zur Was findest du auf dieser Seite?" title="Direkter Link zur Was findest du auf dieser Seite?">​</a></h2>
+<p>Wir haben verschiedene Bereiche geschaffen, um unser Wissen und unsere Arbeit zu dokumentieren:</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="interaktive-karte">Interaktive Karte<a href="https://open-kirrberg.github.io/perma/blog/willkommen#interaktive-karte" class="hash-link" aria-label="Direkter Link zur Interaktive Karte" title="Direkter Link zur Interaktive Karte">​</a></h3>
+<p>Erkunde unsere Flächen auf der <a href="https://open-kirrberg.github.io/perma/map">interaktiven Karte</a>. Hier findest du alle unsere Bäume, Beete und Projekte mit genauen Standorten und Informationen.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="pflanzen-wiki">Pflanzen-Wiki<a href="https://open-kirrberg.github.io/perma/blog/willkommen#pflanzen-wiki" class="hash-link" aria-label="Direkter Link zur Pflanzen-Wiki" title="Direkter Link zur Pflanzen-Wiki">​</a></h3>
+<p>Im <a href="https://open-kirrberg.github.io/perma/wiki/intro">Wiki</a> dokumentieren wir alle Pflanzen, die bei uns wachsen. Von Obstbäumen bis zu Beeren - hier findest du detaillierte Informationen zu Sorten, Pflege und Ernte.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="baumschule">Baumschule<a href="https://open-kirrberg.github.io/perma/blog/willkommen#baumschule" class="hash-link" aria-label="Direkter Link zur Baumschule" title="Direkter Link zur Baumschule">​</a></h3>
+<p>In unserer <a href="https://open-kirrberg.github.io/perma/baumschule">Baumschule</a> ziehen wir Jungbäume aus regionalen Sorten heran. Wir dokumentieren hier unsere Edelreiser und Veredelungsprojekte.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="veranstaltungskalender">Veranstaltungskalender<a href="https://open-kirrberg.github.io/perma/blog/willkommen#veranstaltungskalender" class="hash-link" aria-label="Direkter Link zur Veranstaltungskalender" title="Direkter Link zur Veranstaltungskalender">​</a></h3>
+<p>Im <a href="https://open-kirrberg.github.io/perma/events">Kalender</a> findest du alle anstehenden Termine - von Pflanzaktionen bis zu Workshops.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mitmachen">Mitmachen<a href="https://open-kirrberg.github.io/perma/blog/willkommen#mitmachen" class="hash-link" aria-label="Direkter Link zur Mitmachen" title="Direkter Link zur Mitmachen">​</a></h2>
+<p>Permakultur lebt vom Austausch und der Gemeinschaft. Wenn du Interesse hast, bei uns mitzuwirken oder mehr zu erfahren, schau bei unseren Veranstaltungen vorbei!</p>
+<p>Wir freuen uns auf dich!</p>
+<p><strong>Dein Team Permakultur</strong></p>]]></content>
+        <author>
+            <name>Team Permakultur</name>
+            <uri>https://open-kirrberg.de</uri>
+        </author>
+        <category label="Willkommen" term="Willkommen"/>
+        <category label="Permakultur" term="Permakultur"/>
+        <category label="Open-Kirrberg" term="Open-Kirrberg"/>
     </entry>
 </feed>
