@@ -1,0 +1,142 @@
+[
+  {
+    "id": "U001",
+    "name": "A2",
+    "typ": "Apfel",
+    "beschreibung": "Stark wachsende, sehr frostharte Unterlage für Äpfel",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-a2-apfelunterlage"
+  },
+  {
+    "id": "U002",
+    "name": "B9",
+    "typ": "Apfel",
+    "beschreibung": "Schwach wachsende, sehr frostharte Unterlage für Äpfel",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-b9-apfelunterlage"
+  },
+  {
+    "id": "U003",
+    "name": "Bittenfelder Sämling",
+    "typ": "Apfel",
+    "beschreibung": "Stark wachsende Sämlings-Unterlage für Äpfel",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-bittenfelder-saemling-apfelunterlage"
+  },
+  {
+    "id": "U004",
+    "name": "D22/12",
+    "typ": "Apfel",
+    "beschreibung": "Schwach bis mittelstark wachsende, frostharte Unterlage für Äpfel",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-d22-12-apfelunterlage"
+  },
+  {
+    "id": "U005",
+    "name": "M4",
+    "typ": "Apfel",
+    "beschreibung": "Mittelstark wachsende Unterlage für Äpfel",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-m4-apfelunterlage"
+  },
+  {
+    "id": "U006",
+    "name": "M7",
+    "typ": "Apfel",
+    "beschreibung": "Mittelstark wachsende Unterlage für Äpfel",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-m7-apfelunterlage"
+  },
+  {
+    "id": "U007",
+    "name": "M9",
+    "typ": "Apfel",
+    "beschreibung": "Schwach wachsende Unterlage für Äpfel",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-m9-apfelunterlage"
+  },
+  {
+    "id": "U008",
+    "name": "Geneva 11",
+    "typ": "Apfel",
+    "beschreibung": "Schwachwachsende, feuerbrandtolerante Unterlage für Äpfel",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-geneva-11-apfelunterlage"
+  },
+  {
+    "id": "U009",
+    "name": "M 26",
+    "typ": "Apfel",
+    "beschreibung": "Schwach wachsende, gesunde Unterlage für Äpfel",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-m-26-apfelunterlage"
+  },
+  {
+    "id": "U010",
+    "name": "MM 111",
+    "typ": "Apfel",
+    "beschreibung": "Mittelstark wachsende Unterlage für Äpfel",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-mm-111-apfelunterlage"
+  },
+  {
+    "id": "U011",
+    "name": "Kirchensaller Mostbirne",
+    "typ": "Birne",
+    "beschreibung": "Stark wachsende Unterlage für Birnen",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-kirchensaller-mostbirne-birnenunterlage"
+  },
+  {
+    "id": "U012",
+    "name": "Pyrodwarf",
+    "typ": "Birne",
+    "beschreibung": "Schwachwachsende Veredlungsunterlage für Birnen",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-pyrodwarf-birnenunterlage"
+  },
+  {
+    "id": "U013",
+    "name": "Quitte A",
+    "typ": "Birne",
+    "beschreibung": "Mittelstark wachsende Unterlage für Birnen",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-quitte-a-birnenunterlage"
+  },
+  {
+    "id": "U014",
+    "name": "Quitte BA 29",
+    "typ": "Birne",
+    "beschreibung": "Mittelstark wachsende, relativ kalktolerante Unterlage für Birnen",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-quitte-ba-29-birnenunterlage"
+  },
+  {
+    "id": "U015",
+    "name": "Quitte C",
+    "typ": "Birne",
+    "beschreibung": "Schwachwachsende Unterlage für Birnen",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-quitte-c-birnenunterlage"
+  },
+  {
+    "id": "U016",
+    "name": "ViruTherm 1 (S)",
+    "typ": "Birne",
+    "beschreibung": "Schwach bis mittelstark wachsende Unterlage für Birnen",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-virutherm-1-s-birnenunterlage"
+  },
+  {
+    "id": "U017",
+    "name": "ViruTherm 2 (S)",
+    "typ": "Birne",
+    "beschreibung": "Mittelstark wachsende Unterlage für Birnen",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-virutherm-2-s-birnenunterlage"
+  },
+  {
+    "id": "U018",
+    "name": "Alkavo",
+    "typ": "Kirsche",
+    "beschreibung": "Starkwachsende Unterlage für Kirschen",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-alkavo-kirschenunterlage"
+  },
+  {
+    "id": "U019",
+    "name": "GiSelA 5",
+    "typ": "Kirsche",
+    "beschreibung": "Schwachwachsende Unterlage für Kirschen",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-gisela-5-kirschenunterlage"
+  },
+  {
+    "id": "U020",
+    "name": "Colt",
+    "typ": "Kirsche",
+    "beschreibung": "Mittelstark- bis starkwachsende Unterlage für Kirschen",
+    "link": "https://www.eggert-baumschulen.de/de/produkt/unterlage-colt-kirschenunterlage"
+  }
+]

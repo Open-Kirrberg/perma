@@ -1,0 +1,79 @@
+[
+  {
+    "id": "V01",
+    "name": "Chip-Veredelung",
+    "kategorie": "Vegetative Vermehrung",
+    "beschreibung": "Ein kleiner Chip (Span) des Edelreis wird entnommen und in eine vorbereitete Öffnung der Unterlage eingesetzt.",
+    "link": "https://de.wikipedia.org/wiki/Pflanzenveredelung"
+  },
+  {
+    "id": "V02",
+    "name": "Dickrindenpfropfen",
+    "kategorie": "Vegetative Vermehrung",
+    "beschreibung": "Die Rinde der Unterlage wird vollständig abgehoben, um das Edelreis dahinter einzusetzen.",
+    "link": "https://de.wikipedia.org/wiki/Pflanzenveredelung"
+  },
+  {
+    "id": "V03",
+    "name": "Rindenpfropfen",
+    "kategorie": "Vegetative Vermehrung",
+    "beschreibung": "Ähnlich wie beim Dickrindenpfropfen, jedoch wird die Rinde der Unterlage nicht komplett abgehoben.",
+    "link": "https://de.wikipedia.org/wiki/Pflanzenveredelung"
+  },
+  {
+    "id": "V04",
+    "name": "Okulation",
+    "kategorie": "Vegetative Vermehrung",
+    "beschreibung": "Ein einzelnes Auge (Knospe) des Edelreis wird präzise in eine Kerbe der Unterlage eingefügt.",
+    "link": "https://de.wikipedia.org/wiki/Pflanzenveredelung"
+  },
+  {
+    "id": "V05",
+    "name": "Kopulation",
+    "kategorie": "Vegetative Vermehrung",
+    "beschreibung": "Edelreis und Unterlage werden so zugeschnitten, dass ihre Schnittflächen exakt zusammenpassen.",
+    "link": "https://de.wikipedia.org/wiki/Pflanzenveredelung"
+  },
+  {
+    "id": "V06",
+    "name": "Geißfußveredelung",
+    "kategorie": "Vegetative Vermehrung",
+    "beschreibung": "Das Edelreis wird seitlich an die Unterlage angesetzt – häufig bei Obstbäumen eingesetzt.",
+    "link": "https://de.wikipedia.org/wiki/Pflanzenveredelung"
+  },
+  {
+    "id": "V07",
+    "name": "Anplatten",
+    "kategorie": "Vegetative Vermehrung",
+    "beschreibung": "Das Edelreis wird auf eine vorbereitete Unterlage aufgesetzt und fixiert.",
+    "link": "https://de.wikipedia.org/wiki/Pflanzenveredelung"
+  },
+  {
+    "id": "V08",
+    "name": "Nicolieren",
+    "kategorie": "Spezialmethode",
+    "beschreibung": "Ein dritter, verträglicher Partner wird als Vermittler zwischen Edelreis und Unterlage eingesetzt.",
+    "link": "https://de.wikipedia.org/wiki/Pflanzenveredelung"
+  },
+  {
+    "id": "V09",
+    "name": "Lamellenpfropfen",
+    "kategorie": "Vegetative Vermehrung",
+    "beschreibung": "Speziell bei Walnuss: Die Unterlage wird mit lamellenartigen Einschnitten versehen, um das Edelreis aufzunehmen.",
+    "link": "https://de.wikipedia.org/wiki/Pflanzenveredelung"
+  },
+  {
+    "id": "V10",
+    "name": "Spaltpfropfen",
+    "kategorie": "Vegetative Vermehrung",
+    "beschreibung": "Die Unterlage wird aufgespalten, sodass das Edelreis in den Spalt eingesetzt werden kann – eine traditionelle Methode.",
+    "link": "https://de.wikipedia.org/wiki/Pflanzenveredelung"
+  },
+  {
+    "id": "V11",
+    "name": "Seitliches Einspitzen",
+    "kategorie": "Vegetative Vermehrung",
+    "beschreibung": "Das Edelreis wird seitlich in die Unterlage eingeführt, um eine stabile Verbindung herzustellen.",
+    "link": "https://de.wikipedia.org/wiki/Pflanzenveredelung"
+  }
+]

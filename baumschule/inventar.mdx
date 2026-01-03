@@ -1,0 +1,30 @@
+import TreeCreator from '@site/src/components/TreeCreator';
+
+# Baumschule & Inventar
+
+Hier findet ihr die aktuelle Bestandsliste unserer veredelten Bäume.
+Jeder Baum besteht aus einer **Unterlage** (Wurzelstock) und einem **Edelreis** (Sorte), die durch eine bestimmte **Veredelungsart** verbunden wurden.
+
+<TreeCreator />
+
+---
+
+## Hinweise zur Datenpflege
+
+Die Daten werden lokal in deinem Browser gespeichert (localStorage). Um sie dauerhaft zu sichern und mit anderen zu teilen:
+
+1. Klicke auf **"JSON exportieren"**
+2. Kopiere die heruntergeladene `inventar.json` nach `data/inventar.json`
+3. Committe die Änderung ins Git-Repository
+
+So bleiben die Daten für alle Nutzer verfügbar!
+
+### Baum-ID Format
+
+Jeder Baum erhält eine eindeutige ID im Format: `Unterlage:Edelreis:Pflanzjahr:Nummer`
+
+Beispiel: `U007:A001:2025:01` bedeutet:
+- **U007** = M9 Apfelunterlage (schwach wachsend)
+- **A001** = Boskoop (Apfelsorte)
+- **2025** = Pflanzjahr
+- **01** = Erste Veredelung dieser Kombination
