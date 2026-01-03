@@ -1,17 +1,15 @@
 import React from 'react';
-import Layout from '@theme/Layout';
 import BrowserOnly from '@docusaurus/BrowserOnly';
 
-export default function HomePage() {
+export default function MapPage() {
   return (
-    <Layout>
-      <h1>Fruit Trees and Areas</h1>
-      <BrowserOnly fallback={<div>Lade Map …</div>}>
+    <div className="map-fullscreen-page">
+      <BrowserOnly fallback={<div className="map-loading">Lade Map …</div>}>
         {() => {
           const Map = require('../components/Map/index').default;
           return <Map />;
         }}
       </BrowserOnly>
-    </Layout>
+    </div>
   );
 }

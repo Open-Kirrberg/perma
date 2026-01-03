@@ -1,6 +1,6 @@
 // src/components/Map.js
 
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useRef } from 'react';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import proj4 from 'proj4';
@@ -11,8 +11,17 @@ import { createTreePopupContent } from './createTreePopupContent';
 import DistanceMeasurementTool from "./DistanceMeasurementTool";
 import { UserLocationControl } from './UserLocationControl';
 
+const AREAS = [
+  { id: '2900', label: '2900' },
+  { id: '2901', label: '2901' },
+  { id: '2902-4', label: '2902-4' }
+];
+
 const Map = () => {
   const [map, setMap] = useState(null);
+  const [selectedArea, setSelectedArea] = useState<string | null>(null);
+  const [toolsExpanded, setToolsExpanded] = useState(false);
+  const areaLayersRef = useRef<{ [key: string]: L.Layer }>({});
 
   // Define tree marker icon
   const treeIcon = L.divIcon({
@@ -140,15 +149,19 @@ const Map = () => {
     // Load and display GeoJSON areas
     loadGeoJSONFiles().then((geojsonLayers) => {
       geojsonLayers.forEach((geojsonData) => {
-        L.geoJSON(geojsonData, {
-          style: { color: 'red', weight: 2 },
+        const geoLayer = L.geoJSON(geojsonData, {
+          style: { color: '#3d6b3d', weight: 3 },
           onEachFeature: (feature, layer) => {
+            // Store reference by FLZ
+            if (feature.properties.FLZ) {
+              areaLayersRef.current[feature.properties.FLZ] = layer;
+            }
             layer.bindPopup(
               `<b>Area ID: ${feature.properties.FLZ}</b><br>Name: ${feature.properties.NAME}`
             );
             layer.on('click', () => {
-              layer.setStyle({ color: 'blue', weight: 4 });
-              setTimeout(() => layer.setStyle({ color: 'red', weight: 2 }), 1000);
+              layer.setStyle({ color: '#ff6b35', weight: 5 });
+              setTimeout(() => layer.setStyle({ color: '#3d6b3d', weight: 3 }), 1500);
             });
           },
         }).addTo(leafletMap);
@@ -195,20 +208,71 @@ const Map = () => {
     }
   };
 
+  const selectArea = (areaId: string) => {
+    if (!map) return;
+
+    // Reset previous selection
+    Object.values(areaLayersRef.current).forEach((layer: any) => {
+      layer.setStyle({ color: '#3d6b3d', weight: 3 });
+    });
+
+    // Highlight selected area
+    const layer = areaLayersRef.current[areaId] as any;
+    if (layer) {
+      setSelectedArea(areaId);
+      layer.setStyle({ color: '#ff6b35', weight: 5 });
+      map.fitBounds(layer.getBounds(), { padding: [20, 20] });
+      layer.openPopup();
+    }
+  };
+
   return (
-    <div>
-      <input
-        type="text"
-        placeholder="Search by Area ID (FLZ)"
-        onChange={handleSearch}
-        style={{ marginBottom: '10px', padding: '5px', width: '100%' }}
-      />
-      <div id="map" style={{ height: '500px', width: '100%' }}></div>
-      {map && <TreeTracking map={map} />}
+    <div className="map-container-wrapper">
+      {/* Back Button */}
+      <a href="/" className="map-back-btn" title="Zurück zur Startseite">
+        ← Zurück
+      </a>
+
+      {/* Area Selector */}
+      <div className="area-selector">
+        {AREAS.map(area => (
+          <button
+            key={area.id}
+            className={`area-btn ${selectedArea === area.id ? 'active' : ''}`}
+            onClick={() => selectArea(area.id)}
+          >
+            {area.label}
+          </button>
+        ))}
+      </div>
+
+      {/* Map */}
+      <div id="map" style={{ height: '100vh', width: '100%' }}></div>
+
+      {/* Tools Panel */}
+      <div className={`map-tools-panel ${toolsExpanded ? 'expanded' : ''}`}>
+        <button
+          className="tools-toggle"
+          onClick={() => setToolsExpanded(!toolsExpanded)}
+        >
+          {toolsExpanded ? '✕ Schließen' : '⚙️ Tools'}
+        </button>
+        {toolsExpanded && (
+          <div className="tools-content">
+            {map && <DistanceMeasurementTool map={map} />}
+            {map && <CreateTree map={map} onTreeAdded={handleTreeAdded} />}
+            {map && <TreeTracking map={map} />}
+          </div>
+        )}
+      </div>
+
+      {/* Location Control */}
+      <div className="location-control-overlay">
+        {map && <UserLocationControl map={map} />}
+      </div>
+
+      {/* Tree Loader (hidden, just loads data) */}
       {map && <TreeLoader map={map} />}
-      {map && <CreateTree map={map} onTreeAdded={handleTreeAdded} />}
-      {map && <DistanceMeasurementTool map={map} />}
-      {map && <UserLocationControl map={map} />}
     </div>
   );
 };

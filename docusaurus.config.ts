@@ -6,12 +6,12 @@ import type {Options as DocsOptions} from '@docusaurus/plugin-content-docs';
 const isProd = process.env.NODE_ENV === 'production';
 
 const config: Config = {
-  title: 'My Site',
+  title: 'Permakultur Kirrberg',
   tagline: 'Natur im Gleichgewicht: Permakultur für alle',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://open-kirrberg.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: isProd ? '/perma/' : '/', // lokaler Modus vs. Produktion
@@ -28,8 +28,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'de',
+    locales: ['de'],
   },
 
   presets: [
@@ -61,11 +61,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },
+      title: 'Permakultur Kirrberg',
       items: [
         {
           to: '/areas/intro',
@@ -106,7 +102,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'right'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Open-Kirrberg/perma',
           label: 'GitHub',
           position: 'right',
         },
@@ -116,46 +112,54 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Entdecken',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Flächen',
+              to: '/areas/intro',
+            },
+            {
+              label: 'Wiki',
+              to: '/wiki/intro',
+            },
+            {
+              label: 'Karte',
+              to: '/map',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Ressourcen',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Baumschule',
+              to: '/baumschule',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Events',
+              to: '/events',
             },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
             {
               label: 'Blog',
               to: '/blog',
             },
+          ],
+        },
+        {
+          title: 'Mehr',
+          items: [
+            {
+              label: 'Vision',
+              to: '/vision',
+            },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/Open-Kirrberg/perma',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `© ${new Date().getFullYear()} Open-Kirrberg e.V. - Permakultur Kirrberg`,
     },
     prism: {
       theme: prismThemes.github,
