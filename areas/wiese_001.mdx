@@ -1,55 +1,104 @@
 ---
 sidebar_position: 2
+title: Wiese auf dem Kirschberg
 ---
+
+import BrowserOnly from '@docusaurus/BrowserOnly';
 
 # Wiese auf dem Kirschberg
 
-<img src="/img/wiese_001/wiese.jpg" alt="Wiese" id="klimakarte" />
+<div className="area-hero">
+  <img src="/img/wiese_001/wiese.jpg" alt="Wiese auf dem Kirschberg" className="area-hero-image" />
+</div>
 
-- **Flurnummer:** 2100/7/1508
-- **Größe:** 1227m² 
-- **Umring:** 210m
-- **Länge:** 91m
-- **Breite:** 13m
+<div className="area-layout">
+  <div className="area-info-box">
+    <h3>Grundstücksdaten</h3>
+    <ul>
+      <li><strong>Flurnummer:</strong> 2100/7/1508</li>
+      <li><strong>Größe:</strong> 1.227 m²</li>
+      <li><strong>Umring:</strong> 210 m</li>
+      <li><strong>Länge:</strong> 91 m</li>
+      <li><strong>Breite:</strong> 13 m</li>
+    </ul>
+    <span className="area-status area-status-active">Aktiv bewirtschaftet</span>
+  </div>
+
+  <div className="area-map-container">
+    <BrowserOnly fallback={<div className="map-loading">Karte wird geladen...</div>}>
+      {() => {
+        const AreaMap = require('@site/src/components/AreaMap').default;
+        return (
+          <AreaMap
+            center={[49.295217, 7.37658]}
+            zoom={18}
+            height="350px"
+            markerPosition={[49.295217, 7.37658]}
+            markerLabel="Wiese auf dem Kirschberg"
+          />
+        );
+      }}
+    </BrowserOnly>
+  </div>
+</div>
 
 ## Lage und Gegebenheiten
 
-Die Wiese auf dem Kirschberg befindet sich in einer malerischen Lage, umgeben von sanften Hügeln und mit einer wunderschönen Aussicht auf die umliegende Landschaft. Das Grundstück zeichnet sich durch seine rechteckige Form aus und liegt auf einer leicht abschüssigen Fläche, was eine natürliche Entwässerung begünstigt. 
+Die Wiese auf dem Kirschberg befindet sich in einer malerischen Lage, umgeben von sanften Hügeln und mit einer wunderschönen Aussicht auf die umliegende Landschaft. Das Grundstück zeichnet sich durch seine rechteckige Form aus und liegt auf einer leicht abschüssigen Fläche, was eine natürliche Entwässerung begünstigt.
 
-### Google Maps
-
-Hier ist die genaue Lage des Grundstücks auf Google Maps. Du kannst die Karte verwenden, um die Wiese zu finden und die Umgebung zu erkunden:
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d520.4860323983513!2d7.37658!3d49.295217!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sde!4v1716334849985!5m2!1sen!2sde" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-### Bodenbeschaffenheit
+## Bodenbeschaffenheit
 
 Der Boden der Wiese ist von mittlerer bis hoher Fruchtbarkeit und besteht hauptsächlich aus Lehmboden mit einem guten Humusgehalt. Dies bietet ideale Bedingungen für verschiedene landwirtschaftliche Kulturen und Baumarten. Der pH-Wert des Bodens liegt im neutralen Bereich, was die Aufnahme von Nährstoffen durch Pflanzen begünstigt.
 
-### Umgebung
+## Umgebung
 
 Die Wiese ist von Mischwäldern umgeben und bietet eine Vielzahl an natürlichen Ressourcen. Das Mikroklima ist mild und bietet optimale Bedingungen für das Wachstum verschiedener Pflanzenarten. Die Nähe zu Wasserquellen sorgt für eine ausreichende Wasserversorgung, während die gute Bodenstruktur die Erosionsgefahr minimiert.
 
-
-### Standort und Anfahrt
-
-Die Wiese liegt malerisch am Kirschberg und ist leicht zugänglich. Nutze die eingebettete Karte oben, um die genaue Lage zu finden und die Schönheit dieses Projekts selbst zu erleben.
-
-
 ## Projektaktivitäten
 
-Um die Wiese nachhaltig zu bewirtschaften und die Bodenfruchtbarkeit zu steigern, setzen wir verschiedene Maßnahmen um. Hier ist eine Übersicht der bisherigen und geplanten Aktivitäten:
-
-### Aktivitäten-History
-
-| Datum       | Aktivität                                 | Details                                                               |
-|-------------|-------------------------------------------|----------------------------------------------------------------------|
-| 12. Juni 2024 | Hackschnitzel aufgebracht                 | 180 kg Hackschnitzel zur Mulchung und Bodenabdeckung aufgebracht.    |
-| November 2023 | Beerensträucher gepflanzt                 | 20 Beerensträucher (Himbeeren, Brombeeren) gepflanzt.               |
-| Oktober 2023 | Obstbäume gepflanzt                       | 10 verschiedene Obstbäume (Apfel, Birne, Kirsche) gepflanzt.         |
-| Oktober 2022 | Obstbäume gepflanzt                       | 10 verschiedene Obstbäume (Apfel, Birne, Kirsche) gepflanzt.         |
-| November 2021| Obstbäume gepflanzt                       | 10 verschiedene Obstbäume (Apfel, Birne, Kirsche) gepflanzt.         |
+<div className="area-timeline">
+  <div className="timeline-item">
+    <div className="timeline-date">Juni 2024</div>
+    <div className="timeline-content">
+      <h4>Hackschnitzel aufgebracht</h4>
+      <p>180 kg Hackschnitzel zur Mulchung und Bodenabdeckung aufgebracht.</p>
+    </div>
+  </div>
+  <div className="timeline-item">
+    <div className="timeline-date">Nov 2023</div>
+    <div className="timeline-content">
+      <h4>Beerensträucher gepflanzt</h4>
+      <p>20 Beerensträucher (Himbeeren, Brombeeren) gepflanzt.</p>
+    </div>
+  </div>
+  <div className="timeline-item">
+    <div className="timeline-date">Okt 2023</div>
+    <div className="timeline-content">
+      <h4>Obstbäume gepflanzt</h4>
+      <p>10 verschiedene Obstbäume (Apfel, Birne, Kirsche) gepflanzt.</p>
+    </div>
+  </div>
+  <div className="timeline-item">
+    <div className="timeline-date">Okt 2022</div>
+    <div className="timeline-content">
+      <h4>Obstbäume gepflanzt</h4>
+      <p>10 verschiedene Obstbäume (Apfel, Birne, Kirsche) gepflanzt.</p>
+    </div>
+  </div>
+  <div className="timeline-item">
+    <div className="timeline-date">Nov 2021</div>
+    <div className="timeline-content">
+      <h4>Obstbäume gepflanzt</h4>
+      <p>10 verschiedene Obstbäume (Apfel, Birne, Kirsche) gepflanzt.</p>
+    </div>
+  </div>
+</div>
 
 ## Werde Teil des Projekts
 
 Wir laden dich herzlich ein, Teil dieses innovativen Projekts zu werden. Egal ob du uns durch den Kauf einer Klima Karte unterstützt oder aktiv bei den Pflanz- und Pflegearbeiten mithelfen möchtest – jede Hilfe zählt!
+
+<div className="area-cta">
+  <a href="/klimakarte" className="button button--primary button--lg">Klima Karte kaufen</a>
+  <a href="/events" className="button button--outline button--primary button--lg">Mitmachen</a>
+</div>

@@ -1,0 +1,80 @@
+/**
+ * AreaMap Component Styles
+ */
+
+.mapWrapper {
+  width: 100%;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.mapContainer {
+  width: 100%;
+  z-index: 1;
+}
+
+/* Override Leaflet default styles */
+.mapContainer :global(.leaflet-control-layers) {
+  border-radius: 8px;
+  border: none;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+}
+
+.mapContainer :global(.leaflet-control-layers-toggle) {
+  width: 36px;
+  height: 36px;
+}
+
+.mapContainer :global(.leaflet-popup-content-wrapper) {
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+}
+
+.mapContainer :global(.leaflet-popup-content) {
+  margin: 12px 16px;
+  font-family: var(--ifm-font-family-base);
+}
+
+.mapContainer :global(.leaflet-popup-tip) {
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+}
+
+/* Location marker */
+.locationMarker {
+  background: transparent;
+  border: none;
+}
+
+.locationMarker :global(.marker-pin) {
+  font-size: 28px;
+  display: block;
+  text-align: center;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+}
+
+/* Dark mode adjustments */
+[data-theme='dark'] .mapWrapper {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+}
+
+[data-theme='dark'] .mapContainer :global(.leaflet-control-layers) {
+  background: #2a2a2a;
+  color: #e0e0e0;
+}
+
+[data-theme='dark'] .mapContainer :global(.leaflet-popup-content-wrapper) {
+  background: #2a2a2a;
+  color: #e0e0e0;
+}
+
+[data-theme='dark'] .mapContainer :global(.leaflet-popup-tip) {
+  background: #2a2a2a;
+}
+
+/* Responsive */
+@media screen and (max-width: 768px) {
+  .mapWrapper {
+    border-radius: 8px;
+  }
+}

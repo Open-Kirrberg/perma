@@ -1,24 +1,54 @@
 ---
 sidebar_position: 3
+title: Wiese am Wasserbunker
 ---
+
+import BrowserOnly from '@docusaurus/BrowserOnly';
 
 # Wiese am Wasserbunker
 
-> Ein Naturparadies und Zukunftsprojekt
+<div className="area-quote">
+  Ein Naturparadies und Zukunftsprojekt
+</div>
 
+<p className="area-intro-text">
 Die "Wiese am Wasserbunker" ist nicht nur ein idyllisches Grundstück, sondern auch ein Ort mit großem Potenzial für nachhaltige Projekte. Derzeit noch unberührt, ist die Wiese der perfekte Ausgangspunkt für die Umsetzung von Ideen, die Natur, Gemeinschaft und Nachhaltigkeit vereinen.
+</p>
 
-- Flurnummer: 2100/6/1428/4 und 2100/6/1428/5
-- Größe: ca. 2430m² (1220m² +  1210m²)
-- Umring: 293.8 m
-- Länge: 223m
-- Breite: 19m 
+<div className="area-layout">
+  <div className="area-info-box">
+    <h3>Grundstücksdaten</h3>
+    <ul>
+      <li><strong>Flurnummer:</strong> 2100/6/1428/4 + /5</li>
+      <li><strong>Größe:</strong> ca. 2.430 m²</li>
+      <li><strong>Umring:</strong> 293,8 m</li>
+      <li><strong>Länge:</strong> 223 m</li>
+      <li><strong>Breite:</strong> 19 m</li>
+    </ul>
+    <span className="area-status area-status-planned">In Planung</span>
+  </div>
+
+  <div className="area-map-container">
+    <BrowserOnly fallback={<div className="map-loading">Karte wird geladen...</div>}>
+      {() => {
+        const AreaMap = require('@site/src/components/AreaMap').default;
+        return (
+          <AreaMap
+            center={[49.29413288, 7.36910323]}
+            zoom={17}
+            height="350px"
+            markerPosition={[49.29413288, 7.36910323]}
+            markerLabel="Wiese am Wasserbunker"
+          />
+        );
+      }}
+    </BrowserOnly>
+  </div>
+</div>
 
 ## Standort und Gegebenheiten
 
-Die längliche Form des Grundstücks verläuft entlang eines sanften Hangs, der eine effiziente Entwässerung gewährleistet. Die Wiese liegt in malerischer Lage am Wasserbunker und ist leicht zugänglich. Nutzen Sie die eingebettete Google Maps-Karte, um die genaue Position zu finden und die Umgebung zu erkunden.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d746.6104896542369!2d7.3691032371594725!3d49.29413288053065!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sde!4v1716336253202!5m2!1sen!2sde" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+Die längliche Form des Grundstücks verläuft entlang eines sanften Hangs, der eine effiziente Entwässerung gewährleistet. Die Wiese liegt in malerischer Lage am Wasserbunker und ist leicht zugänglich.
 
 ## Bodenbeschaffenheit
 
@@ -28,27 +58,57 @@ Der Boden ist äußerst fruchtbar und besteht hauptsächlich aus lehmiger Erde m
 
 Die "Wiese am Wasserbunker" liegt in einer malerischen Umgebung, die von verschiedenen Elementen geprägt ist:
 
-- **Schützenhaus:** Direkt neben der Wiese befindet sich das Schützenhaus in Kirrberg. Dieses bietet nicht nur eine optimale Parkmöglichkeit, sondern auch eine Verbindung zur Gemeinschaft. Hier können sich Menschen treffen, Ideen austauschen und gemeinsam an Projekten arbeiten.
-
-- **Wildhecke und hohe Bäume:** Die Wiese grenzt unmittelbar an eine Wildhecke mit einigen hohen Bäumen. Diese natürliche Begrenzung schafft einen geschützten Raum und bietet Lebensraum für Vögel und andere Tiere.
-
-- **Weitere Obstwiesen:** In der näheren Umgebung gibt es weitere Obstwiesen. Dies fördert die Vielfalt der Pflanzen und trägt zur Biodiversität bei.
-
+<div className="area-features-list">
+  <div className="area-feature-item">
+    <span className="area-feature-icon">🏠</span>
+    <div>
+      <h4>Schützenhaus</h4>
+      <p>Direkt neben der Wiese befindet sich das Schützenhaus in Kirrberg. Dieses bietet nicht nur eine optimale Parkmöglichkeit, sondern auch eine Verbindung zur Gemeinschaft.</p>
+    </div>
+  </div>
+  <div className="area-feature-item">
+    <span className="area-feature-icon">🌳</span>
+    <div>
+      <h4>Wildhecke und hohe Bäume</h4>
+      <p>Die Wiese grenzt unmittelbar an eine Wildhecke mit einigen hohen Bäumen. Diese natürliche Begrenzung schafft einen geschützten Raum und bietet Lebensraum für Vögel und andere Tiere.</p>
+    </div>
+  </div>
+  <div className="area-feature-item">
+    <span className="area-feature-icon">🍎</span>
+    <div>
+      <h4>Weitere Obstwiesen</h4>
+      <p>In der näheren Umgebung gibt es weitere Obstwiesen. Dies fördert die Vielfalt der Pflanzen und trägt zur Biodiversität bei.</p>
+    </div>
+  </div>
+</div>
 
 ## Projektaktivitäten
 
-Derzeit noch unberührt.
+<div className="area-status-box area-status-box-planned">
+  <span className="status-icon">🌱</span>
+  <p>Dieses Grundstück ist derzeit noch unberührt und wartet auf seinen ersten Einsatz. Hier entsteht bald etwas Großartiges!</p>
+</div>
 
 ## Zukunftspläne
 
-### Waldgarten
-
-Der Plan, neue Bäume für einen Waldgarten zu setzen, ist äußerst vielversprechend. Ein Waldgarten ist ein vielfältiges Ökosystem, das Obstbäume, Sträucher, Kräuter und Blumen miteinander verbindet. Hier können sich Pflanzen gegenseitig unterstützen, Nährstoffe austauschen und Lebensräume für Tiere bieten. Die Wahl der richtigen Baumarten ist entscheidend, um eine harmonische Umgebung zu schaffen.
-
-### Weltacker
-
-Der "Welt Acker" ist ein faszinierendes Konzept, das aufzeigt, wie begrenzt unsere Ressourcen sind. Auf einem Weltacker wird die gesamte landwirtschaftlich genutzte Fläche der Erde im Maßstab 1:1 nachgebildet. Jedes Feld repräsentiert eine bestimmte Kulturpflanze, sei es Getreide, Gemüse oder Obst. Dieses Projekt ermöglicht es, die Vielfalt der globalen Landwirtschaft zu erleben und gleichzeitig auf lokale Anbaumethoden zu achten.
+<div className="future-plans">
+  <div className="future-plan-card">
+    <div className="plan-icon">🌲</div>
+    <h3>Waldgarten</h3>
+    <p>Der Plan, neue Bäume für einen Waldgarten zu setzen, ist äußerst vielversprechend. Ein Waldgarten ist ein vielfältiges Ökosystem, das Obstbäume, Sträucher, Kräuter und Blumen miteinander verbindet. Hier können sich Pflanzen gegenseitig unterstützen, Nährstoffe austauschen und Lebensräume für Tiere bieten.</p>
+  </div>
+  <div className="future-plan-card">
+    <div className="plan-icon">🌍</div>
+    <h3>Weltacker</h3>
+    <p>Der "Welt Acker" ist ein faszinierendes Konzept, das aufzeigt, wie begrenzt unsere Ressourcen sind. Auf einem Weltacker wird die gesamte landwirtschaftlich genutzte Fläche der Erde im Maßstab nachgebildet. Dieses Projekt ermöglicht es, die Vielfalt der globalen Landwirtschaft zu erleben.</p>
+  </div>
+</div>
 
 ## Mach mit!
 
 Wir laden dich herzlich ein, Teil dieses Zukunftsprojekts zu werden. Ob du Bäume pflanzt, Beete vorbereitest oder einfach nur die Natur genießt – jede Unterstützung ist wertvoll!
+
+<div className="area-cta">
+  <a href="/events" className="button button--primary button--lg">Bei Events mitmachen</a>
+  <a href="/vision" className="button button--outline button--primary button--lg">Unsere Vision</a>
+</div>
