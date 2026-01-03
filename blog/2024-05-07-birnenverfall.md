@@ -1,8 +1,8 @@
 ---
-slug: long-blog-post
 title: "Der stille Kampf der Birnenbäume"
-authors: huhn
+authors: team-permacultur
 tags: [Birne, Alte-Sorten, Klimawandel]
+image: https://images.unsplash.com/photo-1574856344991-aaa31b6f4ce3?w=800
 ---
 
 ## Ein Überblick über den Birnenverfall
@@ -17,10 +17,9 @@ Die Diagnose des Birnenverfalls ist nicht immer einfach. Viele Symptome können 
 
 Der Birnenverfall ist kein lokales Problem; es ist ein europaweites Phänomen, das in den letzten Jahren durch die Auswirkungen des Klimawandels noch verschärft wurde. In der Schweiz sind beispielsweise 60 bis 80 Prozent der Hochstamm-Birnbäume betroffen.
 
-## Was können wir also tun, um unsere Birnenbäume zu schützen? 
+## Was können wir also tun, um unsere Birnenbäume zu schützen?
+
 Die Forschung nach wirksamen Gegenmaßnahmen ist im Gange, und es ist die Hoffnung aller Obstbauern und Permakultur-Enthusiasten, dass eine Lösung gefunden wird, bevor es zu spät ist.
 
----
-
-Quelle: 
+Quelle:
 (1) Birnenverfall: Das Ende von Guter Luise und Williams Christ?. https://www.br.de/nachrichten/wissen/birnenverfall-das-ende-von-guter-luise-und-williams-christ,UBMxUC5.
