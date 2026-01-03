@@ -1,0 +1,129 @@
+/**
+ * UpcomingEvents Styles
+ */
+
+.eventsSection {
+  padding: 5rem 0;
+  background: var(--color-bg-warm);
+}
+
+.sectionHeader {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.sectionTitle {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 2.5rem;
+  color: var(--color-text-dark);
+  margin-bottom: 0.5rem;
+}
+
+.sectionSubtitle {
+  color: var(--color-text-muted);
+  font-size: 1.1rem;
+  margin: 0;
+}
+
+.eventsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.eventCard {
+  display: flex;
+  gap: 1.5rem;
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.eventCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+}
+
+.eventDate {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 60px;
+  padding: 0.75rem;
+  background: linear-gradient(135deg, var(--ifm-color-primary), var(--ifm-color-primary-dark));
+  border-radius: 8px;
+  color: white;
+}
+
+.eventDay {
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.eventMonth {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 0.25rem;
+}
+
+.eventContent {
+  flex: 1;
+  min-width: 0;
+}
+
+.eventTitle {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem 0;
+  color: var(--color-text-dark);
+}
+
+.eventDescription {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  margin: 0;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.viewAllContainer {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+/* Responsive */
+@media screen and (max-width: 996px) {
+  .eventsSection {
+    padding: 3rem 0;
+  }
+
+  .sectionTitle {
+    font-size: 2rem;
+  }
+
+  .eventsGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Dark mode */
+[data-theme='dark'] .eventsSection {
+  background: var(--color-bg-warm);
+}
+
+[data-theme='dark'] .eventCard {
+  background: #2a2a2a;
+}
+
+[data-theme='dark'] .eventTitle {
+  color: #e0e0e0;
+}
